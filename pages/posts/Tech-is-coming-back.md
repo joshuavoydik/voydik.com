@@ -1,7 +1,7 @@
 ---
 title: Tech is coming back this year
 date: 2023/1/22
-description: 
+description: Let's shift our focus from 2022 to 2023
 tag: tech, startups, optimism 
 author: You
 ---
