@@ -1,12 +1,12 @@
 @font-face {
-  font-family: 'Inter var';
+  font-family: 'Helvetica Neue';
   font-style: normal;
   font-weight: 100 900;
   font-display: block;
   src: url(/fonts/Inter-roman.latin.var.woff2) format('woff2');
 }
 @font-face {
-  font-family: 'Inter var';
+  font-family: 'Helvetica Neue';
   font-style: italic;
   font-weight: 100 900;
   font-display: block;
@@ -21,7 +21,7 @@ body {
   -webkit-font-smoothing: subpixel-antialiased;
   font-feature-settings: 'case' 1, 'cpsp' 1, 'dlig' 1, 'cv01' 1, 'cv02',
     'cv03' 1, 'cv04' 1;
-  font-variation-settings: 'wght' 600;
+  font-variation-settings: 'wght' 500;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
 
