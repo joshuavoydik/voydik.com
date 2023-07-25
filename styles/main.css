@@ -24,6 +24,7 @@ body {
   font-variation-settings: 'wght' 450;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
+  font-size: 18px;
 
 }
 b,
@@ -64,6 +65,10 @@ img.next-image {
 .nav-line .nav-link { 
   display: none;
   color: #69778c;
+}
+
+.main {
+  padding-top: 20px; /* Adjust this to your liking */
 }
 
 
