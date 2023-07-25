@@ -1,19 +1,17 @@
 @font-face {
-  font-family: 'system-ui';
+  font-family: 'Inter var';
   font-style: normal;
   font-weight: 100 900;
   font-display: block;
   src: url(/fonts/Inter-roman.latin.var.woff2) format('woff2');
-  font-size: 30px;
 }
 @font-face {
-  font-family: 'system-ui';
+  font-family: 'Inter var';
   font-style: italic;
   font-weight: 100 900;
   font-display: block;
   src: url(/fonts/Inter-italic.latin.var.woff2) format('woff2');
   font-named-instance: 'Italic';
-  font-size: 30px;
 }
 
 body {
@@ -26,6 +24,7 @@ body {
   font-variation-settings: 'wght' 500;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
+  font-size: medium;
 
 }
 b,
