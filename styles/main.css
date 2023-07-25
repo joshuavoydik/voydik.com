@@ -24,6 +24,7 @@ body {
   font-variation-settings: 'wght' 450;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
+  font-size: 18px; /* Or any other size you want */
 }
 b,
 strong,
