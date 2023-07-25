@@ -24,7 +24,7 @@ body {
   font-variation-settings: 'wght' 450;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
-  font-size: 18px;
+  font-size: 40px;
 
 }
 b,
@@ -60,16 +60,11 @@ img.next-image {
 
 .prose a {
   color: #0074de;
-  font-size: 30px;
 }
 
 .nav-line .nav-link { 
   display: none;
   color: #69778c;
-}
-
-.main {
-  padding-top: 2px; /* Adjust this to your liking */
 }
 
 
