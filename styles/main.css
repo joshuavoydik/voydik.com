@@ -1,17 +1,19 @@
 @font-face {
-  font-family: 'Helvetica Neue';
+  font-family: 'system-ui';
   font-style: normal;
   font-weight: 100 900;
   font-display: block;
   src: url(/fonts/Inter-roman.latin.var.woff2) format('woff2');
+  font-size: 30px;
 }
 @font-face {
-  font-family: 'Helvetica Neue';
+  font-family: 'system-ui';
   font-style: italic;
   font-weight: 100 900;
   font-display: block;
   src: url(/fonts/Inter-italic.latin.var.woff2) format('woff2');
   font-named-instance: 'Italic';
+  font-size: 30px;
 }
 
 body {
