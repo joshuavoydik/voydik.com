@@ -11,7 +11,7 @@ export default {
         @media screen and (max-width: 480px) {
           article {
             padding-top: 0.5rem;
-            padding-bottom: 1rem;
+            padding-bottom: 0.5rem;
           }
         }
       `}</style>
