@@ -2,7 +2,7 @@ const YEAR = new Date().getFullYear()
 
 export default {
   footer: (
-    <small style={{ display: 'block', marginTop: '1rem' }}>
+    <small style={{ display: 'block', marginTop: '0.5rem', marginBottom: '0.5em' }}>
       {/* Here's where we removed the year and copyright text */}
       <style jsx>{`
         a {
