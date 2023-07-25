@@ -60,6 +60,7 @@ img.next-image {
 
 .prose a {
   color: #0074de;
+  font-size: 30px;
 }
 
 .nav-line .nav-link { 
@@ -68,7 +69,7 @@ img.next-image {
 }
 
 .main {
-  padding-top: 20px; /* Adjust this to your liking */
+  padding-top: 2px; /* Adjust this to your liking */
 }
 
 
