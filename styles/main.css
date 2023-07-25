@@ -24,7 +24,10 @@ body {
   font-variation-settings: 'wght' 500;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
-
+  margin-top: 10px;     /* Adjust to your liking */
+  margin-bottom: 10px;  /* Adjust to your liking */
+  padding-top: 10px;    /* Adjust to your liking */
+  padding-bottom: 10px; /* Adjust to your liking */
 }
 b,
 strong,
