@@ -8,7 +8,13 @@ export default {
         a {
           float: right;
         }
+        .prose {
+          font-size: 20px;
+        }
         @media screen and (max-width: 480px) {
+          .prose {
+            font-size: 18px;
+          }
           article {
             padding-top: 0.2rem;
             padding-bottom: 0.2rem;
@@ -18,4 +24,5 @@ export default {
     </small>
   )
 }
+
 
