@@ -1,5 +1,5 @@
-:global(.prose p) {
-    font-size: 28px;
+html {
+    font-size: 24px !important;
   }
   
   
