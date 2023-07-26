@@ -9,7 +9,7 @@ export default {
           float: right;
         }
         .prose {
-          font-size: 20px;
+          font-size: 8px;
         }
         @media screen and (max-width: 480px) {
           .prose {
