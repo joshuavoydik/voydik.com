@@ -52,9 +52,9 @@ no client-side API key or third-party script. The optional
 `NEXT_PUBLIC_NEWSLETTER_URL` environment variable overrides the public form URL;
 never put a secret in a `NEXT_PUBLIC_` variable.
 
-The existing Substack subscriber import is pending with the provider. A
-production signup must be tested through inbox confirmation and the provider's
-subscriber list before migration is considered complete.
+Manage subscriber imports and delivery verification privately in Buttondown.
+When changing the form, test through inbox confirmation and verify the resulting
+subscriber status in the provider's dashboard.
 
 Subscriber exports, suppression lists, and credentials must stay outside this
 public repository. Import only eligible subscribed contacts as active; preserve
