@@ -1,38 +1,46 @@
 const { promises: fs } = require('fs')
 const path = require('path')
 const RSS = require('rss')
-const matter = require('gray-matter')
+const { getAllWriting } = require('../lib/writing')
+
+const SITE_URL = 'https://voydik.com'
 
 async function generate() {
   const feed = new RSS({
     title: 'Joshua Voydik',
-    site_url: 'https://yoursite.com',
-    feed_url: 'https://yoursite.com/feed.xml'
+    description: 'Founder of Hero and Swell. Writing about technology, travel, and life.',
+    site_url: SITE_URL,
+    feed_url: `${SITE_URL}/feed.xml`,
+    language: 'en'
   })
 
-  const posts = await fs.readdir(path.join(__dirname, '..', 'pages', 'posts'))
+  const imported = getAllWriting()
+  const items = imported.map((post) => ({ ...post, url: `${SITE_URL}/writing/${post.slug}` }))
 
-  await Promise.all(
-    posts.map(async (name) => {
-      if (name.startsWith('index.')) return
-
-      const content = await fs.readFile(
-        path.join(__dirname, '..', 'pages', 'posts', name)
-      )
-      const frontmatter = matter(content)
-
-      feed.item({
-        title: frontmatter.data.title,
-        url: '/posts/' + name.replace(/\.mdx?/, ''),
-        date: frontmatter.data.date,
-        description: frontmatter.data.description,
-        categories: frontmatter.data.tag.split(', '),
-        author: frontmatter.data.author
-      })
+  items.forEach((post) => {
+    feed.item({
+      title: post.title,
+      url: post.url,
+      guid: post.url,
+      date: post.date.includes('T') ? post.date : `${post.date}T00:00:00Z`,
+      description: post.description,
+      categories: post.tags || [],
+      author: 'Joshua Voydik'
     })
-  )
+  })
 
-  await fs.writeFile('./public/feed.xml', feed.xml({ indent: true }))
+  await fs.writeFile(path.join(__dirname, '..', 'public', 'feed.xml'), feed.xml({ indent: true }))
+  const escapeXml = (value) => String(value).replace(/[<>&'\"]/g, (character) => ({ '<': '&lt;', '>': '&gt;', '&': '&amp;', "'": '&apos;', '"': '&quot;' })[character])
+  const sitemapUrls = [
+    { url: SITE_URL },
+    { url: `${SITE_URL}/writing` },
+    ...imported.map((post) => ({ url: `${SITE_URL}/writing/${post.slug}`, lastmod: post.lastModified }))
+  ]
+  const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemapUrls.map(({ url, lastmod }) => `  <url><loc>${escapeXml(url)}</loc>${lastmod ? `<lastmod>${escapeXml(lastmod)}</lastmod>` : ''}</url>`).join('\n')}\n</urlset>\n`
+  await fs.writeFile(path.join(__dirname, '..', 'public', 'sitemap.xml'), sitemap)
 }
 
-generate()
+generate().catch((error) => {
+  console.error(error)
+  process.exitCode = 1
+})

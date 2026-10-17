@@ -1,0 +1,2712 @@
+{
+  "source": "https://joshua.substack.com/archive",
+  "importedAt": "2026-10-17T19:57:35.350Z",
+  "publishedPosts": 107,
+  "importedPosts": 107,
+  "dateRange": {
+    "first": "2022-06-29T16:53:17.138Z",
+    "last": "2026-08-26T02:55:17.516Z"
+  },
+  "restrictedPosts": 0,
+  "missingAssets": [],
+  "textParityFailures": [],
+  "uniqueImages": 105,
+  "imageReferences": 108,
+  "assets": [
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/c2da5b6d-6e01-4a06-aa1d-eb03cb3d2d79_250x308.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/c2da5b6d-6e01-4a06-aa1d-eb03cb3d2d79_250x308.jpeg",
+      "localPath": "writing/b00b022b8a24238996f8285c.jpg",
+      "sha256": "b00b022b8a24238996f8285ccee5f164e0f8eb4889ff77546a250208d812bcf3",
+      "bytes": 26632,
+      "displayPath": "writing/b27d2718b4fe6af8b1906c9c.webp",
+      "displaySha256": "b27d2718b4fe6af8b1906c9cab658e0fd8acc49a44a6bc54f15bab73b10ad84f",
+      "displayBytes": 21998,
+      "width": 250,
+      "height": 308
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/029a1eeb-2c2e-4d6f-abfc-615d025a7aa6_1920x1444.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/029a1eeb-2c2e-4d6f-abfc-615d025a7aa6_1920x1444.jpeg",
+      "localPath": "writing/e85d62a46db548d82fecfab8.jpg",
+      "sha256": "e85d62a46db548d82fecfab81b502974b5404034afbfaa6ec0f0e2fe9e4cf4bf",
+      "bytes": 851166,
+      "displayPath": "writing/d037318e55c862dee68a7809.webp",
+      "displaySha256": "d037318e55c862dee68a780914576041ea5029befffadcb965936f1bc392296b",
+      "displayBytes": 680270,
+      "width": 1600,
+      "height": 1203
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8bcc6a3c-1733-439f-9b85-4d80c46effc9_1024x1024.webp",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8bcc6a3c-1733-439f-9b85-4d80c46effc9_1024x1024.webp",
+      "localPath": "writing/8e8eb937c2a98887101266de.webp",
+      "sha256": "8e8eb937c2a98887101266de986f22f6fcbdfee95dc457cea836d56ee2f17f5d",
+      "bytes": 245670,
+      "displayPath": "writing/97a891c0230599b460daf231.webp",
+      "displaySha256": "97a891c0230599b460daf231ab324b16e183a39f3c8a2dc4546dd31b156c0814",
+      "displayBytes": 116512,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/baa33b2a-fd5b-4efd-af52-3272679baf70_1376x480.png",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/baa33b2a-fd5b-4efd-af52-3272679baf70_1376x480.png",
+      "localPath": "writing/ce6cd819768fbc1a92f840c9.png",
+      "sha256": "ce6cd819768fbc1a92f840c99230a44ba09725b3fbced0d82cd0757449ad8006",
+      "bytes": 101337,
+      "displayPath": "writing/5d080e01143e859ae6035918.webp",
+      "displaySha256": "5d080e01143e859ae603591868c4bcfd1b3571932ca03c910c95bce171799dd7",
+      "displayBytes": 23290,
+      "width": 1376,
+      "height": 480
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/ff8612ec-dfab-4903-8972-35913f46a0b7_1590x772.png",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/ff8612ec-dfab-4903-8972-35913f46a0b7_1590x772.png",
+      "localPath": "writing/21cb632bc8519e7b5dc04903.png",
+      "sha256": "21cb632bc8519e7b5dc04903d1d29f7b5e96c7a2ae30bb5d77d320e6ab98403e",
+      "bytes": 232759,
+      "displayPath": "writing/f2419a38b067ee97f8a051f1.webp",
+      "displaySha256": "f2419a38b067ee97f8a051f198a2c4501454f55198db9fcecf1e9e091ee1d249",
+      "displayBytes": 76086,
+      "width": 1590,
+      "height": 772
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/61c9175f-2917-4932-b474-b7d54db85285_1996x1101.bin",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/61c9175f-2917-4932-b474-b7d54db85285_1996x1101.bin",
+      "localPath": "writing/5f0db8a47ce3cb61c014d348.png",
+      "sha256": "5f0db8a47ce3cb61c014d348f615b74f01282b9805fbb65d368b4f345a1b5394",
+      "bytes": 93600,
+      "displayPath": "writing/d50616b9b1cc812ec200b002.webp",
+      "displaySha256": "d50616b9b1cc812ec200b0026724d716b335c79c89cd1bbae9854879eee1bac6",
+      "displayBytes": 42980,
+      "width": 1600,
+      "height": 883
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/14e6c076-67aa-42f3-9e5b-4326afc63556_1314x392.png",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/14e6c076-67aa-42f3-9e5b-4326afc63556_1314x392.png",
+      "localPath": "writing/d3e99a34fd1a73ce8c6af394.png",
+      "sha256": "d3e99a34fd1a73ce8c6af394d8ed06f5fa6447b207c17e0271746a5a24145cd6",
+      "bytes": 75301,
+      "displayPath": "writing/98b8a30b493e9558d1ebe820.webp",
+      "displaySha256": "98b8a30b493e9558d1ebe820d5064cac19ffa2c9927d69adb31f54013ca249a4",
+      "displayBytes": 20490,
+      "width": 1314,
+      "height": 392
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/f5f6621a-22db-4643-84a0-8dfb89d9c8a3_1536x2049.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/f5f6621a-22db-4643-84a0-8dfb89d9c8a3_1536x2049.jpeg",
+      "localPath": "writing/7ee0ac0cd872b4a0bcf33931.jpg",
+      "sha256": "7ee0ac0cd872b4a0bcf33931fc8bec01a7a72ce60cf717e6ba165739cc11b172",
+      "bytes": 1194307,
+      "displayPath": "writing/876c6bff86515d436115d4bc.webp",
+      "displaySha256": "876c6bff86515d436115d4bc00fbc0df146563e146bd8add1a9ee37616e3d8b1",
+      "displayBytes": 598780,
+      "width": 1536,
+      "height": 2049
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/038e2e77-8e75-4e77-b49d-a8bfa663126b_2049x1536.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/038e2e77-8e75-4e77-b49d-a8bfa663126b_2049x1536.jpeg",
+      "localPath": "writing/03b5f6c1b55cd67a5190ac65.jpg",
+      "sha256": "03b5f6c1b55cd67a5190ac65d932efec91b1743a6a62d2e78a393ecf842b0cf5",
+      "bytes": 979109,
+      "displayPath": "writing/1cfaee449bd67ecd5f862d00.webp",
+      "displaySha256": "1cfaee449bd67ecd5f862d0083bd15dfb5e8a2abdf4710abcbe0642331113ee5",
+      "displayBytes": 350130,
+      "width": 1600,
+      "height": 1199
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/7e6f121c-50f2-4491-9cbe-5ee28669c508_2049x1536.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/7e6f121c-50f2-4491-9cbe-5ee28669c508_2049x1536.jpeg",
+      "localPath": "writing/ceaa842b293d3babc5d6476a.jpg",
+      "sha256": "ceaa842b293d3babc5d6476a9d4a056648df3365aea5c307f29ab92bb50e9190",
+      "bytes": 1014662,
+      "displayPath": "writing/175bdd190a11bf229baedf26.webp",
+      "displaySha256": "175bdd190a11bf229baedf2683b70ce86ee9248c5753d55f6b444b640166e381",
+      "displayBytes": 339276,
+      "width": 1600,
+      "height": 1199
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/790e91a9-013d-4e3e-8c06-2aa6ec855064_1536x2049.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/790e91a9-013d-4e3e-8c06-2aa6ec855064_1536x2049.jpeg",
+      "localPath": "writing/337f9161db59eb5459f000e2.jpg",
+      "sha256": "337f9161db59eb5459f000e20af44124dbc2363824b49f06fcc61bba027e54d2",
+      "bytes": 1043748,
+      "displayPath": "writing/f9a098baa8ef051267c0beff.webp",
+      "displaySha256": "f9a098baa8ef051267c0beffafcfe8ca64b6e2e098fb513fce22f61287d383b3",
+      "displayBytes": 550062,
+      "width": 1536,
+      "height": 2049
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8bd39e31-2061-439f-88b0-365371bdd5b2_1536x2049.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8bd39e31-2061-439f-88b0-365371bdd5b2_1536x2049.jpeg",
+      "localPath": "writing/573d4670fa70a75809ca36a9.jpg",
+      "sha256": "573d4670fa70a75809ca36a91c87fe3b91fd353bdc50bedf13cc88bf75c4f7a8",
+      "bytes": 926009,
+      "displayPath": "writing/689825be7db6cee4080c5819.webp",
+      "displaySha256": "689825be7db6cee4080c581906e5fce143dbfdfa683861289b068edab3a9e5f0",
+      "displayBytes": 455652,
+      "width": 1536,
+      "height": 2049
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/393e0e29-dac8-4d6b-9329-fcd50655a731_2049x1536.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/393e0e29-dac8-4d6b-9329-fcd50655a731_2049x1536.jpeg",
+      "localPath": "writing/843e5315ef64c5e9b1b44aa1.jpg",
+      "sha256": "843e5315ef64c5e9b1b44aa1a0784fc801467927e94ec7ba5a6646d95f6bd26f",
+      "bytes": 573500,
+      "displayPath": "writing/b71dac8e6177ccfc4f9e1916.webp",
+      "displaySha256": "b71dac8e6177ccfc4f9e19161f3519ebc804080b7f026f42f90973cf28736a4e",
+      "displayBytes": 139274,
+      "width": 1600,
+      "height": 1199
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/9f688089-f19b-478d-8a56-d2fea255277c_900x600.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/9f688089-f19b-478d-8a56-d2fea255277c_900x600.jpeg",
+      "localPath": "writing/157e1f0835b69257efb95f8d.jpg",
+      "sha256": "157e1f0835b69257efb95f8d098999af17cfb723066107932b894eb17326540c",
+      "bytes": 221216,
+      "displayPath": "writing/c9a02617a0cff13169f7e9b8.webp",
+      "displaySha256": "c9a02617a0cff13169f7e9b80394c860f28597cbaa69b4ae37457c18ecc22846",
+      "displayBytes": 186182,
+      "width": 900,
+      "height": 600
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/598f3eaf-88ae-4ef6-915d-e33497ddd92a_1020x810.png",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/598f3eaf-88ae-4ef6-915d-e33497ddd92a_1020x810.png",
+      "localPath": "writing/b8938309c99780caee5ad1bf.png",
+      "sha256": "b8938309c99780caee5ad1bf465e1a3b7cde19a7ea28b0cc8baff5af1ed5726f",
+      "bytes": 45724,
+      "displayPath": "writing/09b03d483957649b050455e2.webp",
+      "displaySha256": "09b03d483957649b050455e28ed7cb4989a7baad68c5a343b18b5257eb033195",
+      "displayBytes": 32724,
+      "width": 1020,
+      "height": 810
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/9f81600e-f7da-43b6-a73e-30c9a991d8f6_1024x1024.png",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/9f81600e-f7da-43b6-a73e-30c9a991d8f6_1024x1024.png",
+      "localPath": "writing/a0d4d85f3e9afdeac49eb44e.png",
+      "sha256": "a0d4d85f3e9afdeac49eb44e316e4df962ccde63ed3bbfd09e2094ab4acc7654",
+      "bytes": 1969310,
+      "displayPath": "writing/267f9531f60a905b83f0aa7d.webp",
+      "displaySha256": "267f9531f60a905b83f0aa7d18b12b1ea3456a07b48256239f3f0f666ef5c753",
+      "displayBytes": 106292,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8a6f7010-a5f9-4084-a2d1-b1dd4be952d2_1024x1024.png",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8a6f7010-a5f9-4084-a2d1-b1dd4be952d2_1024x1024.png",
+      "localPath": "writing/664ff0192c7d16178b9d227c.png",
+      "sha256": "664ff0192c7d16178b9d227ce4095073420ceab64ad6675691f99534a3c2ba90",
+      "bytes": 2417602,
+      "displayPath": "writing/55d6cbfc5ac524738e33cab2.webp",
+      "displaySha256": "55d6cbfc5ac524738e33cab2d4b5da20e8a37e24e148475fe873bb263edb90ba",
+      "displayBytes": 229658,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/acae5de7-3893-4d9a-94a1-371652959c9b_2116x1492.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/acae5de7-3893-4d9a-94a1-371652959c9b_2116x1492.jpeg",
+      "localPath": "writing/5d8ec16f5533168ce0f94a40.jpg",
+      "sha256": "5d8ec16f5533168ce0f94a4046d95c47e86da846158d31e4ea8d95170eacd74e",
+      "bytes": 971466,
+      "displayPath": "writing/28bcbe9bd4c0fbbe04d8c0f0.webp",
+      "displaySha256": "28bcbe9bd4c0fbbe04d8c0f025e0bbde1d0d90af4f6025b392d9360b54f12ae7",
+      "displayBytes": 288374,
+      "width": 1600,
+      "height": 1128
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/027a4ae8-168e-4f7a-aa77-07920164f4a9_944x1264.png",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/027a4ae8-168e-4f7a-aa77-07920164f4a9_944x1264.png",
+      "localPath": "writing/53ced4d259c81ced96a7a445.png",
+      "sha256": "53ced4d259c81ced96a7a4456065b4ee03d27958649ae5fe276780f6272435e0",
+      "bytes": 2097184,
+      "displayPath": "writing/14081ec4dbfce5a8ad7c3c36.webp",
+      "displaySha256": "14081ec4dbfce5a8ad7c3c36a1ab5a59eea2eb888be99c3e5d776a90429df3e3",
+      "displayBytes": 227326,
+      "width": 944,
+      "height": 1264
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/72a8a0e2-17b6-4e61-b32b-d8026db3b812_949x1200.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/72a8a0e2-17b6-4e61-b32b-d8026db3b812_949x1200.jpeg",
+      "localPath": "writing/2f4bf3adffe3dc42718f244e.jpg",
+      "sha256": "2f4bf3adffe3dc42718f244ec1a1dcce0796f0b3dfa2d42dbf7b28a56750c362",
+      "bytes": 161945,
+      "displayPath": "writing/33cc6af842d00671a152273e.webp",
+      "displaySha256": "33cc6af842d00671a152273e4abd9e413eba079489232dc24467d672424dc699",
+      "displayBytes": 102206,
+      "width": 949,
+      "height": 1200
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/a305d01f-faed-4db2-abe3-625957746843_768x1152.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/a305d01f-faed-4db2-abe3-625957746843_768x1152.jpeg",
+      "localPath": "writing/026762dbd2ff3a4ec748976f.jpg",
+      "sha256": "026762dbd2ff3a4ec748976f60e208943fe01ec6483f405928cefc179e453be2",
+      "bytes": 484919,
+      "displayPath": "writing/0f3f627dc36a7739ed58a723.webp",
+      "displaySha256": "0f3f627dc36a7739ed58a723d45c351e5ccc0826829765a14d488b36c868f818",
+      "displayBytes": 67776,
+      "width": 768,
+      "height": 1152
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/a335da57-69eb-4ec9-8267-5973936c1606_1024x1024.png",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/a335da57-69eb-4ec9-8267-5973936c1606_1024x1024.png",
+      "localPath": "writing/d40554cb1591ba9f6c026a3d.png",
+      "sha256": "d40554cb1591ba9f6c026a3dcf52900cc7f0b460d5b26f4f73a890138287f368",
+      "bytes": 1975636,
+      "displayPath": "writing/cf3762c44d2d13c53273d868.webp",
+      "displaySha256": "cf3762c44d2d13c53273d868217ff511e8fd07301d504aa72ed15072b80ad76b",
+      "displayBytes": 239096,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/697555bd-75f4-4a8a-9797-c850e9761a9b_1616x1166.png",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/697555bd-75f4-4a8a-9797-c850e9761a9b_1616x1166.png",
+      "localPath": "writing/628b1d65e89476ed252629eb.png",
+      "sha256": "628b1d65e89476ed252629eb7b16bb313e75e2522e3a02264abb406575913854",
+      "bytes": 111905,
+      "displayPath": "writing/b5c21f670f16a57b54af1d1b.webp",
+      "displaySha256": "b5c21f670f16a57b54af1d1b4240c5ffb2364701aaa6434ef03ca9ced1f2a362",
+      "displayBytes": 23970,
+      "width": 1600,
+      "height": 1154
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/33f8802b-c326-4db8-a4b1-c80927b96664_512x768.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/33f8802b-c326-4db8-a4b1-c80927b96664_512x768.jpeg",
+      "localPath": "writing/6a9c96d85ac740512647c2a9.jpg",
+      "sha256": "6a9c96d85ac740512647c2a9e4234dcfaa3119346f12e657a83540308c2b3797",
+      "bytes": 376020,
+      "displayPath": "writing/d47b5574aa9de77f038ed34c.webp",
+      "displaySha256": "d47b5574aa9de77f038ed34c4f20f20360db9887c7899b8dacb0ed707cbba465",
+      "displayBytes": 147614,
+      "width": 512,
+      "height": 768
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/4a255a43-0694-4268-a447-d6137f4cf601_1024x1024.png",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/4a255a43-0694-4268-a447-d6137f4cf601_1024x1024.png",
+      "localPath": "writing/c971020ca23492c8187be415.png",
+      "sha256": "c971020ca23492c8187be415e5dd7b27043572eb0f548a274e544b9e29ae99ac",
+      "bytes": 1023835,
+      "displayPath": "writing/19b11b2ac222933ec24f1651.webp",
+      "displaySha256": "19b11b2ac222933ec24f1651185f060b77d5473404db65727315bb53c92945f8",
+      "displayBytes": 63604,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/659347aa-ec45-41ad-b16b-def9647bc13a.heic",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!rK6M!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F659347aa-ec45-41ad-b16b-def9647bc13a.heic",
+      "localPath": "writing/fa646bc564f38e9aa57311ca.jpg",
+      "sha256": "fa646bc564f38e9aa57311ca729d905ce0ea986b249bb61682d0e5713189d026",
+      "bytes": 588619,
+      "displayPath": "writing/41d7e8c07c492b52a3e3673d.webp",
+      "displaySha256": "41d7e8c07c492b52a3e3673d042c1cac7a9ed258f48a3b6f6f8755c69cb9a866",
+      "displayBytes": 676870,
+      "width": 1456,
+      "height": 1941
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/72dc4d7e-e4db-4c80-bd7d-391294284985.heic",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!s724!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72dc4d7e-e4db-4c80-bd7d-391294284985.heic",
+      "localPath": "writing/30341aa362c8e528e8cef216.jpg",
+      "sha256": "30341aa362c8e528e8cef216f6c27a04bff22d3c42441f43d6933e3a85535452",
+      "bytes": 830477,
+      "displayPath": "writing/17cf2a9093779853d10c3f36.webp",
+      "displaySha256": "17cf2a9093779853d10c3f368651dc00601bac98db51a49f859b983c4735cc9e",
+      "displayBytes": 1016034,
+      "width": 1456,
+      "height": 1941
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/62ad68a4-8279-47c0-86aa-2bce5cc34b05.heic",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!CzDj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62ad68a4-8279-47c0-86aa-2bce5cc34b05.heic",
+      "localPath": "writing/ae4600a42198e3d9cd96a699.jpg",
+      "sha256": "ae4600a42198e3d9cd96a69942ac2440142b61ad7de596354c97f5620608940f",
+      "bytes": 942683,
+      "displayPath": "writing/012deef880359bb8d9c61c27.webp",
+      "displaySha256": "012deef880359bb8d9c61c271c7334e73c92327622fa3c56afcfe1c1c88837da",
+      "displayBytes": 1199164,
+      "width": 1456,
+      "height": 1941
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/4c18106d-7e82-47cb-9086-0f1ea06566ed.heic",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!wQPM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c18106d-7e82-47cb-9086-0f1ea06566ed.heic",
+      "localPath": "writing/7b375d40c03d704a85389565.jpg",
+      "sha256": "7b375d40c03d704a8538956507a053e58f7dfffd9c1535c9a97fdc8d894a1ed7",
+      "bytes": 514425,
+      "displayPath": "writing/ce84c9706318cbb6dd76a118.webp",
+      "displaySha256": "ce84c9706318cbb6dd76a118c8268b769f120766412e5dea78448ae25b29f561",
+      "displayBytes": 599152,
+      "width": 1456,
+      "height": 1941
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/52a8596e-a56b-4972-b8ce-5d3264754c7a_416x554.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/52a8596e-a56b-4972-b8ce-5d3264754c7a_416x554.jpeg",
+      "localPath": "writing/c31bb8f11ecfe37196fb31f3.jpg",
+      "sha256": "c31bb8f11ecfe37196fb31f3b739272c26579249deeaa049911d5c66459376ab",
+      "bytes": 71952,
+      "displayPath": "writing/fd3a005de6653b03850dc286.webp",
+      "displaySha256": "fd3a005de6653b03850dc2867bc91c8de2ac4d8d8c4ac90ad83e2c87a910b6d0",
+      "displayBytes": 28484,
+      "width": 416,
+      "height": 554
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/927215bc-f46d-4b78-9251-6f5ce5284096_650x650.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/927215bc-f46d-4b78-9251-6f5ce5284096_650x650.jpeg",
+      "localPath": "writing/19c7d6b6a4ec2cce5913ee08.jpg",
+      "sha256": "19c7d6b6a4ec2cce5913ee08b731cfe0552a133e74f46cbfc7b8e5328d691066",
+      "bytes": 278482,
+      "displayPath": "writing/cfcbde458a691f931f03e941.webp",
+      "displaySha256": "cfcbde458a691f931f03e9413978b3df641c67f9dd9647d8af0c86db94e36de8",
+      "displayBytes": 54528,
+      "width": 650,
+      "height": 650
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/a64b740e-2e7d-4fa9-bd21-1958c90f1889_300x294.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/a64b740e-2e7d-4fa9-bd21-1958c90f1889_300x294.jpeg",
+      "localPath": "writing/02ca0373010fb1570b2542b5.jpg",
+      "sha256": "02ca0373010fb1570b2542b5cad9e2f13eea91258b100eb049318ab93321eae1",
+      "bytes": 74671,
+      "displayPath": "writing/bd473fe35cb9f0bdbc487acd.webp",
+      "displaySha256": "bd473fe35cb9f0bdbc487acd6086b73659057522d6776a7691b1c7f08fedf6e7",
+      "displayBytes": 19054,
+      "width": 300,
+      "height": 294
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/28996a92-6e6c-47e6-b49d-1666d3b06379_4032x3024.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/28996a92-6e6c-47e6-b49d-1666d3b06379_4032x3024.jpeg",
+      "localPath": "writing/9a12e9a54964b1dae9150dd2.jpg",
+      "sha256": "9a12e9a54964b1dae9150dd2129a26eb45a74b722b8aa8f88aa80b6ce3e6d974",
+      "bytes": 10329139,
+      "displayPath": "writing/d7c2a5d3a358167dcec15b2c.webp",
+      "displaySha256": "d7c2a5d3a358167dcec15b2c911c84a7d0a05a27faafb175e3d03a1151954499",
+      "displayBytes": 517726,
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/08629f18-7e80-417d-bfc9-09ad4876153e_3024x4032.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/08629f18-7e80-417d-bfc9-09ad4876153e_3024x4032.jpeg",
+      "localPath": "writing/cd9abcb78b890f30716cb551.jpg",
+      "sha256": "cd9abcb78b890f30716cb551b8d1d9ad73c660b64c5b8cd291134318f99bdebf",
+      "bytes": 3813236,
+      "displayPath": "writing/66230d2b40162bac7ed0b177.webp",
+      "displaySha256": "66230d2b40162bac7ed0b177e314e99970a1fcceffdd79241cf11bbf0154436d",
+      "displayBytes": 578030,
+      "width": 1600,
+      "height": 2133
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/14fa5960-f9fb-4e91-b82c-b4f9d830ef9f_3024x4032.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/14fa5960-f9fb-4e91-b82c-b4f9d830ef9f_3024x4032.jpeg",
+      "localPath": "writing/af3df5e1d38f7333c83f6f73.jpg",
+      "sha256": "af3df5e1d38f7333c83f6f73d4bd3189aefefad654e95cda15700a3b3dff72cb",
+      "bytes": 3064683,
+      "displayPath": "writing/94c8f5405136a8784b807b98.webp",
+      "displaySha256": "94c8f5405136a8784b807b98c8c2e203d9d3b16ae861a55b3d3148370e410084",
+      "displayBytes": 393312,
+      "width": 1600,
+      "height": 2133
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/dfa6ece4-5d74-47da-8a7c-55858ed954c8_3024x4032.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/dfa6ece4-5d74-47da-8a7c-55858ed954c8_3024x4032.jpeg",
+      "localPath": "writing/0bde2f55ac97673efc015815.jpg",
+      "sha256": "0bde2f55ac97673efc0158153f9ad89756aefcd266d5c294cd331f17b4721eff",
+      "bytes": 3877616,
+      "displayPath": "writing/8daf91af4d552336547a82de.webp",
+      "displaySha256": "8daf91af4d552336547a82de013ce668f791396a4b3625296e906f6a63c65a23",
+      "displayBytes": 642268,
+      "width": 1600,
+      "height": 2133
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/0ccb5900-35ed-4448-a7f0-2a46c04ad2e4_1944x1296.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/0ccb5900-35ed-4448-a7f0-2a46c04ad2e4_1944x1296.jpeg",
+      "localPath": "writing/4ca815fc4106b2d91dc753d7.jpg",
+      "sha256": "4ca815fc4106b2d91dc753d7796c23e11a1fab58865bb778f80be871070781d1",
+      "bytes": 332382,
+      "displayPath": "writing/c90c08df450958ba2a910956.webp",
+      "displaySha256": "c90c08df450958ba2a9109566b6a9adb54545afcc98bae72a945ed0320da87ed",
+      "displayBytes": 288736,
+      "width": 1600,
+      "height": 1067
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/bcbabc03-d0a6-4575-9a07-1b8125bfe95c_1600x1200.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/bcbabc03-d0a6-4575-9a07-1b8125bfe95c_1600x1200.jpeg",
+      "localPath": "writing/f06943f90b1bab9866ae534d.jpg",
+      "sha256": "f06943f90b1bab9866ae534d4cfe8ad6ce9f9bea442bab065f90b50529343c3a",
+      "bytes": 333292,
+      "displayPath": "writing/7d5c7cdc876ebe0bb4a4ab31.webp",
+      "displaySha256": "7d5c7cdc876ebe0bb4a4ab3174192f9c9aa602b21b0bcbdc87720a97074ddea9",
+      "displayBytes": 356034,
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/5a34870e-4034-41f2-8fef-c0f88f309764_3264x2448.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/5a34870e-4034-41f2-8fef-c0f88f309764_3264x2448.jpeg",
+      "localPath": "writing/4e86a4b850d190e93540ed13.jpg",
+      "sha256": "4e86a4b850d190e93540ed136b367bbee3bd2410648ef56eec5c68c72d14c0fd",
+      "bytes": 2158710,
+      "displayPath": "writing/e04f7055aec65e7141767fce.webp",
+      "displaySha256": "e04f7055aec65e7141767fce199b873505b71b97b13bb859448aa1a906653d2b",
+      "displayBytes": 400928,
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/1f968b2a-1a9b-4665-bcdf-bb22690173da_1456x819.webp",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/1f968b2a-1a9b-4665-bcdf-bb22690173da_1456x819.webp",
+      "localPath": "writing/ddff29b8c41e555037e72fd1.webp",
+      "sha256": "ddff29b8c41e555037e72fd1f6a50342b6a3014ff668a15d1a7f46aa14054f49",
+      "bytes": 176216,
+      "displayPath": "writing/1bf3c3c776de552754a35e02.webp",
+      "displaySha256": "1bf3c3c776de552754a35e02159bd8b8e095e571e59f681b2d77ff9c587cf5a6",
+      "displayBytes": 187244,
+      "width": 1456,
+      "height": 819
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/b4a459b3-2f7e-4792-b379-06d0af91a1a6_1280x800.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/b4a459b3-2f7e-4792-b379-06d0af91a1a6_1280x800.jpeg",
+      "localPath": "writing/b74a3f42192b938d241c9317.jpg",
+      "sha256": "b74a3f42192b938d241c93175b39edad276d691223824005f971da5c69710871",
+      "bytes": 774084,
+      "displayPath": "writing/936a453f4f6dc32fd281e795.webp",
+      "displaySha256": "936a453f4f6dc32fd281e795088ddbd3eb1a9f4f82403562dfff0f2afe39bac0",
+      "displayBytes": 262860,
+      "width": 1280,
+      "height": 800
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/50d67882-c0c1-43b8-ba03-456f409a6e5f_1024x768.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/50d67882-c0c1-43b8-ba03-456f409a6e5f_1024x768.jpeg",
+      "localPath": "writing/63159e2af46dcaec8e61bb55.jpg",
+      "sha256": "63159e2af46dcaec8e61bb558041130dbadec0d1b18fb684cb058191e3b63c81",
+      "bytes": 166138,
+      "displayPath": "writing/d091fe5c05c6c480ff61a2f0.webp",
+      "displaySha256": "d091fe5c05c6c480ff61a2f0c45f55cb2aabb476d24cf20cf2f2efd4dbf088a7",
+      "displayBytes": 133974,
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/bad3941e-e6ef-49bf-8f5d-921ca3318c89_2872x1524.png",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/bad3941e-e6ef-49bf-8f5d-921ca3318c89_2872x1524.png",
+      "localPath": "writing/e2d7bada37de182b3c965dc7.png",
+      "sha256": "e2d7bada37de182b3c965dc76da09926774dd3e35c95c318547e1013e8b231c3",
+      "bytes": 1169048,
+      "displayPath": "writing/de73d7c10ed5ff019548fbe1.webp",
+      "displaySha256": "de73d7c10ed5ff019548fbe1fb46af797b6ea45586d8c07ff56e3065b49b05d4",
+      "displayBytes": 73188,
+      "width": 1600,
+      "height": 849
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/6324cfe5-15aa-4edf-9abd-62d92039e6fc_1748x1086.png",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/6324cfe5-15aa-4edf-9abd-62d92039e6fc_1748x1086.png",
+      "localPath": "writing/77ea9c0f03ecda1647e87cf9.png",
+      "sha256": "77ea9c0f03ecda1647e87cf91539b3ad4bbe52d42ae98717db0b44d4fdc92a86",
+      "bytes": 536577,
+      "displayPath": "writing/acd5fe3afb3e65b77657df59.webp",
+      "displaySha256": "acd5fe3afb3e65b77657df59facbf9af2dea3fc1fb02896cbd8f2f8e9072cdf7",
+      "displayBytes": 78246,
+      "width": 1600,
+      "height": 994
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/16580cd0-22f0-404f-b3ec-bd867be132ac_1730x1174.png",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/16580cd0-22f0-404f-b3ec-bd867be132ac_1730x1174.png",
+      "localPath": "writing/235bdc29d2fc348ee67c00a5.png",
+      "sha256": "235bdc29d2fc348ee67c00a57c9f963c911bad5796fba0c2849750d0dd261dc4",
+      "bytes": 565975,
+      "displayPath": "writing/185911330b4da0e7439e2209.webp",
+      "displaySha256": "185911330b4da0e7439e22090b52123e3dd4f0b21ec1ea417a87d84d7353ad0a",
+      "displayBytes": 44186,
+      "width": 1600,
+      "height": 1086
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/35b2d6b9-0607-4c08-a591-9d269094db7d_1502x1144.png",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/35b2d6b9-0607-4c08-a591-9d269094db7d_1502x1144.png",
+      "localPath": "writing/f351beca00677b7900871d4f.png",
+      "sha256": "f351beca00677b7900871d4f6932d77c80707884b547649a57299fad9df40b5c",
+      "bytes": 433420,
+      "displayPath": "writing/53914c901a48d1997fd4af03.webp",
+      "displaySha256": "53914c901a48d1997fd4af03cfbd3cb5dd2c30eef3f36589d995f468aa5e1a99",
+      "displayBytes": 77554,
+      "width": 1502,
+      "height": 1144
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8525f091-6574-48c9-a6eb-10baed45711e_2560x1440.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8525f091-6574-48c9-a6eb-10baed45711e_2560x1440.jpeg",
+      "localPath": "writing/f47d102b28485fee06a8b8f2.jpg",
+      "sha256": "f47d102b28485fee06a8b8f23868933726417f65ab61aaa13b3e9d4c92291f88",
+      "bytes": 901730,
+      "displayPath": "writing/ae59d0f7656f087f502abd33.webp",
+      "displaySha256": "ae59d0f7656f087f502abd33e9d4163e9840f707ee0f9bc03a18266f84b17a9b",
+      "displayBytes": 317210,
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/3212c2f3-1fe1-4775-8b2a-2021d8073836_3024x4032.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/3212c2f3-1fe1-4775-8b2a-2021d8073836_3024x4032.jpeg",
+      "localPath": "writing/846f8300b25168701755ea4f.jpg",
+      "sha256": "846f8300b25168701755ea4ff9e963138ed0770c3cb01640c78bb57c6aeda2f7",
+      "bytes": 7587243,
+      "displayPath": "writing/87d71af17e77921e109fe3e4.webp",
+      "displaySha256": "87d71af17e77921e109fe3e4854ea9eaa820146a0298b930b5df455e2a6029d8",
+      "displayBytes": 1476504,
+      "width": 1600,
+      "height": 2133
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/d76d19db-e8ae-419d-ade2-2c4bf49cb968_3024x4032.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/d76d19db-e8ae-419d-ade2-2c4bf49cb968_3024x4032.jpeg",
+      "localPath": "writing/16cc286dcc988dded6fabb52.jpg",
+      "sha256": "16cc286dcc988dded6fabb5232089ddd59ecd262461a1f50570a24e3348e7fe3",
+      "bytes": 2905975,
+      "displayPath": "writing/7e5f3f03f76c76471f5cd5d3.webp",
+      "displaySha256": "7e5f3f03f76c76471f5cd5d3f4d17429fa3166b554cebe090dae88994dc86408",
+      "displayBytes": 354410,
+      "width": 1600,
+      "height": 2133
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/9024cbb7-b719-4ad7-ad23-d957f15c07bd_3024x4032.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/9024cbb7-b719-4ad7-ad23-d957f15c07bd_3024x4032.jpeg",
+      "localPath": "writing/13af965f60f842d094b5faf4.jpg",
+      "sha256": "13af965f60f842d094b5faf4b7ecbc7115d3d7792499b670e9dc890aeed9c70c",
+      "bytes": 2298082,
+      "displayPath": "writing/d681dd9c96d042f90782df85.webp",
+      "displaySha256": "d681dd9c96d042f90782df85d5dea620742c73b995f01ea0ed666d9f66ed8d06",
+      "displayBytes": 242656,
+      "width": 1600,
+      "height": 2133
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/fbad9099-3d73-4e79-aff6-d1872098becd_4032x3024.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/fbad9099-3d73-4e79-aff6-d1872098becd_4032x3024.jpeg",
+      "localPath": "writing/17165714fbf9246f9c739bb5.jpg",
+      "sha256": "17165714fbf9246f9c739bb570ac18fae63928f05206cfb7ae82bb0d9bd9f9b3",
+      "bytes": 3288810,
+      "displayPath": "writing/01aede62fef311bdc65950b3.webp",
+      "displaySha256": "01aede62fef311bdc65950b3cb97df29d1841256355a4a0a497ba4535bc6c495",
+      "displayBytes": 245796,
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/b67b8552-5fee-41ac-bef6-398992865133_4032x3024.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/b67b8552-5fee-41ac-bef6-398992865133_4032x3024.jpeg",
+      "localPath": "writing/f692901618f1f910bd713831.jpg",
+      "sha256": "f692901618f1f910bd713831d1a273483ad03b5debbec0e20d0f78fc65d35cdc",
+      "bytes": 6110755,
+      "displayPath": "writing/1deac856a56f36943a398148.webp",
+      "displaySha256": "1deac856a56f36943a398148f17d08714cb3b2689b6ef471bd17197280c214fe",
+      "displayBytes": 632738,
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/4aa57f10-6d7d-4779-85f3-4ceb8b21614e_4032x3024.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/4aa57f10-6d7d-4779-85f3-4ceb8b21614e_4032x3024.jpeg",
+      "localPath": "writing/a2e6f9c9e546d9080b50f4e4.jpg",
+      "sha256": "a2e6f9c9e546d9080b50f4e49485dbc376ba850568e866dbe04de4705965c24d",
+      "bytes": 3773225,
+      "displayPath": "writing/d1275c54ae78373ed7f27f5d.webp",
+      "displaySha256": "d1275c54ae78373ed7f27f5d18371ad78fd7597eecc3bdb44fb5ef78e394d2d4",
+      "displayBytes": 234610,
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/592f477c-c31e-4fa5-a3b0-554c5b99e601_3024x4032.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/592f477c-c31e-4fa5-a3b0-554c5b99e601_3024x4032.jpeg",
+      "localPath": "writing/34088e1242bd0bfcb28fb364.jpg",
+      "sha256": "34088e1242bd0bfcb28fb364dc46de0838b2dbf95bb50b52f407bc6cf5305796",
+      "bytes": 3236172,
+      "displayPath": "writing/e234ab159332de7cd2e93e63.webp",
+      "displaySha256": "e234ab159332de7cd2e93e63d190b939da88d5f691cebf658c67c310c8a95060",
+      "displayBytes": 491142,
+      "width": 1600,
+      "height": 2133
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/e89647ba-73be-4b6c-a08a-699902371265_3024x4032.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/e89647ba-73be-4b6c-a08a-699902371265_3024x4032.jpeg",
+      "localPath": "writing/a86f4d31e2c727e27c3121e5.jpg",
+      "sha256": "a86f4d31e2c727e27c3121e5bc7919a8fa7950628711be0e7ab9b817dfb0ee7e",
+      "bytes": 4044552,
+      "displayPath": "writing/47bb2c5b8c399c1eb8f0a385.webp",
+      "displaySha256": "47bb2c5b8c399c1eb8f0a385832de3082e3fd11c1089c9b4aba1316c4cf36366",
+      "displayBytes": 652308,
+      "width": 1600,
+      "height": 2133
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/76f8785c-18db-48a3-bbae-80d892a6ff33_3024x4032.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/76f8785c-18db-48a3-bbae-80d892a6ff33_3024x4032.jpeg",
+      "localPath": "writing/d3185301218873e084b0dbac.jpg",
+      "sha256": "d3185301218873e084b0dbac95588e240e5804e49b0d5d027fc08a22e451c8fd",
+      "bytes": 3637347,
+      "displayPath": "writing/73bb118d5daed7544f3e7fcd.webp",
+      "displaySha256": "73bb118d5daed7544f3e7fcd28702aa33f95fe96937950c629a96ea19c19ff89",
+      "displayBytes": 473168,
+      "width": 1600,
+      "height": 2133
+    },
+    {
+      "sourceUrl": "https://substack-post-media.s3.amazonaws.com/public/images/1799f9ef-96a3-4065-9383-6b3e9b9c6c5b_3024x4032.jpeg",
+      "downloadUrl": "https://substack-post-media.s3.amazonaws.com/public/images/1799f9ef-96a3-4065-9383-6b3e9b9c6c5b_3024x4032.jpeg",
+      "localPath": "writing/0169572d004cd42c1682b232.jpg",
+      "sha256": "0169572d004cd42c1682b23237e8980b77a3dfa90083c9ec08d9d0ee3d5a5943",
+      "bytes": 2821682,
+      "displayPath": "writing/760c45426c4cf3ac131051b6.webp",
+      "displaySha256": "760c45426c4cf3ac131051b6afafb8efcc61c1c60872b7c694b558c991979d5e",
+      "displayBytes": 347234,
+      "width": 1600,
+      "height": 2133
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/116697a1-e4f0-421e-8ba7-8db6542c65c7_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!5hul!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F116697a1-e4f0-421e-8ba7-8db6542c65c7_1024x1024.png",
+      "localPath": "writing/f08977c962210c8666fe375f.jpg",
+      "sha256": "f08977c962210c8666fe375f0daa0901c9565bbaaa6f89802a277f933f03c536",
+      "bytes": 348436,
+      "displayPath": "writing/9840caafc14b4532844342c3.webp",
+      "displaySha256": "9840caafc14b4532844342c391f36c2b1307ca7cd04c7f7a78c27a85ee6d9bde",
+      "displayBytes": 427844,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b10ef6b6-67b3-4cfc-8d65-a8bb3badc548_1987x2513.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!7zok!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb10ef6b6-67b3-4cfc-8d65-a8bb3badc548_1987x2513.jpeg",
+      "localPath": "writing/fee2d0708aed52fd24bbab34.jpg",
+      "sha256": "fee2d0708aed52fd24bbab34f6cae3c89188b1c4348f6978ff7666ff3e7eba18",
+      "bytes": 287696,
+      "displayPath": "writing/95cd0fd84d3557e8d5fa3671.webp",
+      "displaySha256": "95cd0fd84d3557e8d5fa3671055067ad5ae44086a5a2068185619856277ba918",
+      "displayBytes": 265788,
+      "width": 1456,
+      "height": 1841
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1fb4c3a0-414b-4196-98ba-6f0a3dbd0b53_3024x4032.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!IFXr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1fb4c3a0-414b-4196-98ba-6f0a3dbd0b53_3024x4032.jpeg",
+      "localPath": "writing/a22a7bf68c09026f211704a7.jpg",
+      "sha256": "a22a7bf68c09026f211704a715d1031dc18714f23392349f98a7aa02a49b7178",
+      "bytes": 498632,
+      "displayPath": "writing/1b124f6aed2ba11eb2ba92b2.webp",
+      "displaySha256": "1b124f6aed2ba11eb2ba92b2cb266f171ec074042e8d13778f58b6f6597f1b5b",
+      "displayBytes": 540604,
+      "width": 1456,
+      "height": 1941
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/41c25bb2-1ef5-4274-9aa8-86022975f620_3024x4032.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!jgi6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F41c25bb2-1ef5-4274-9aa8-86022975f620_3024x4032.jpeg",
+      "localPath": "writing/3a5d0d571d275de3aeb99232.jpg",
+      "sha256": "3a5d0d571d275de3aeb992323d9c542bfdbddcb5b9e12f03e88309857b8c0abe",
+      "bytes": 555544,
+      "displayPath": "writing/067fd4c2c71b650cd487cfd2.webp",
+      "displaySha256": "067fd4c2c71b650cd487cfd23380f51517b4d4d3c652cdfb11bc4eaa2352a763",
+      "displayBytes": 581516,
+      "width": 1456,
+      "height": 1941
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/64fe77df-e578-4da9-984a-35428fd0406d_1500x844.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!OsiJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F64fe77df-e578-4da9-984a-35428fd0406d_1500x844.jpeg",
+      "localPath": "writing/fc5da1964314db75e6603785.jpg",
+      "sha256": "fc5da1964314db75e6603785fb8ea415abd68c6760c9d28f67d16b4029828429",
+      "bytes": 383663,
+      "displayPath": "writing/bd5c99259de46ad0e5340c4e.webp",
+      "displaySha256": "bd5c99259de46ad0e5340c4e2974c92dc209f5f56821de9ee85f6f83e72e91fe",
+      "displayBytes": 457980,
+      "width": 1456,
+      "height": 819
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2180b4ef-ccfe-48c6-a168-5f410d745bad_2000x1332.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!vrgt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2180b4ef-ccfe-48c6-a168-5f410d745bad_2000x1332.jpeg",
+      "localPath": "writing/c92108cb816f6f2631312b5a.jpg",
+      "sha256": "c92108cb816f6f2631312b5a07f354d652558a64039e1ede5dae73716faefac8",
+      "bytes": 154066,
+      "displayPath": "writing/43e65cafd431e730e6b44774.webp",
+      "displaySha256": "43e65cafd431e730e6b447740a9b4c314c8114f65dcfe3cb8c70975a34d15a76",
+      "displayBytes": 136134,
+      "width": 1456,
+      "height": 970
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/532a723a-90c0-473f-b601-53af4df0933d_1280x853.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!Mt8M!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F532a723a-90c0-473f-b601-53af4df0933d_1280x853.jpeg",
+      "localPath": "writing/e948e673fa279b95c3706459.jpg",
+      "sha256": "e948e673fa279b95c3706459e0588ef242d39f1f10b31c03cb3f1a5f1f70f76b",
+      "bytes": 95274,
+      "displayPath": "writing/62294071d974485a493f8177.webp",
+      "displaySha256": "62294071d974485a493f81777cc983d099270f898b6efc20c0be5ae041d61df1",
+      "displayBytes": 90814,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/039275d9-89ee-4169-b9f4-ad5e3025e6dd_4518x2574.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!8V5b!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F039275d9-89ee-4169-b9f4-ad5e3025e6dd_4518x2574.jpeg",
+      "localPath": "writing/e8a3e9627dd69beec0b7b822.jpg",
+      "sha256": "e8a3e9627dd69beec0b7b82242dc7ab55c9ddb3472ec63aaabe3be3552d57b05",
+      "bytes": 52569,
+      "displayPath": "writing/6b08eb24b00076f750570d18.webp",
+      "displaySha256": "6b08eb24b00076f750570d18fa56e51107f9fc8723b44f6e835dda785237e7bf",
+      "displayBytes": 35712,
+      "width": 1456,
+      "height": 830
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/141099e4-4e05-4fcd-b72e-899b547f9a71_2912x3883.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!xkxH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F141099e4-4e05-4fcd-b72e-899b547f9a71_2912x3883.jpeg",
+      "localPath": "writing/52e21fc7e647453f408193bf.jpg",
+      "sha256": "52e21fc7e647453f408193bfdbe71073a4c071749ae6a459a9091e6de06770e2",
+      "bytes": 572246,
+      "displayPath": "writing/9c0d3e450a9bf0b28a72db4b.webp",
+      "displaySha256": "9c0d3e450a9bf0b28a72db4bd4906975b29472d34124b2197a2b408a9d7ea91c",
+      "displayBytes": 669160,
+      "width": 1456,
+      "height": 1942
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/993a09ac-e1ed-4125-ba28-6bdd4140606e_2260x1260.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!6gjx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F993a09ac-e1ed-4125-ba28-6bdd4140606e_2260x1260.png",
+      "localPath": "writing/1ef001acc9367dd9b4ccf48e.jpg",
+      "sha256": "1ef001acc9367dd9b4ccf48ef963dd708d2954a11671255f1f4ac0e4710bd6fd",
+      "bytes": 54303,
+      "displayPath": "writing/44d0e110056537a7a24419bc.webp",
+      "displaySha256": "44d0e110056537a7a24419bc6ea84c4acef5d550a340410139606e028a278fb6",
+      "displayBytes": 34942,
+      "width": 1456,
+      "height": 812
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/49a95ca3-a351-4610-a423-f1ab829e6e2e_1182x1208.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!u49b!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F49a95ca3-a351-4610-a423-f1ab829e6e2e_1182x1208.jpeg",
+      "localPath": "writing/eddd685b1376ed4ae8aa89ce.jpg",
+      "sha256": "eddd685b1376ed4ae8aa89ced5f2622dcd44f83561369d45035cdde29e1e1f60",
+      "bytes": 240053,
+      "displayPath": "writing/007549a6ac8edd71bcdecba2.webp",
+      "displaySha256": "007549a6ac8edd71bcdecba2c05e7d36b963d563a72180ca193efe71c60ea587",
+      "displayBytes": 248508,
+      "width": 1182,
+      "height": 1208
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/acfc581b-1599-4ab4-9c1d-0cb0e901bde4_1198x1158.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!Gmtn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Facfc581b-1599-4ab4-9c1d-0cb0e901bde4_1198x1158.jpeg",
+      "localPath": "writing/69150948b5a301694625cd7e.jpg",
+      "sha256": "69150948b5a301694625cd7e0c4ab6e1841ab6f0665b50b236aaef55179d5a35",
+      "bytes": 276806,
+      "displayPath": "writing/fda32f04608146a62dc454f8.webp",
+      "displaySha256": "fda32f04608146a62dc454f8a12d872b4c1e53ffffd823861c96502922d5a46b",
+      "displayBytes": 299680,
+      "width": 1198,
+      "height": 1158
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d46257ea-9e89-41de-89c0-143f1208785e_1024x1445.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!ETA_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd46257ea-9e89-41de-89c0-143f1208785e_1024x1445.jpeg",
+      "localPath": "writing/2596092ed79890ed5f89936c.jpg",
+      "sha256": "2596092ed79890ed5f89936c1d70197b2c1ea6a27823a4198334386b1c13fef7",
+      "bytes": 426714,
+      "displayPath": "writing/dd392e290d2f6e8dcbd60801.webp",
+      "displaySha256": "dd392e290d2f6e8dcbd6080104acb4c93a0d4f98295f457bbd6a6eadfe1fb754",
+      "displayBytes": 573112,
+      "width": 1024,
+      "height": 1445
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/30a96b7a-f9c8-4792-9010-09cfe12ac139_1200x685.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!cOnh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30a96b7a-f9c8-4792-9010-09cfe12ac139_1200x685.jpeg",
+      "localPath": "writing/5ee7f430836f80a64782b5f6.jpg",
+      "sha256": "5ee7f430836f80a64782b5f60140434f86a846e8b2bb94d083db3bfc19dd989b",
+      "bytes": 219086,
+      "displayPath": "writing/8901d236d926539f41742b1c.webp",
+      "displaySha256": "8901d236d926539f41742b1c45e6d755fa018feda75be23a8e569251603dcbcf",
+      "displayBytes": 266946,
+      "width": 1200,
+      "height": 685
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3514161c-781b-4c49-a899-4148719ac5fd_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!HuT8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3514161c-781b-4c49-a899-4148719ac5fd_1024x1024.png",
+      "localPath": "writing/8e00fad78132307c18d75919.jpg",
+      "sha256": "8e00fad78132307c18d75919eab31c2b9015cfc00694d5e569ff17c689f5219c",
+      "bytes": 31372,
+      "displayPath": "writing/7b14f54b4415dcb694820e90.webp",
+      "displaySha256": "7b14f54b4415dcb694820e90cbad4f86336fe4a799e7a1ed94f7eea4aeed4654",
+      "displayBytes": 11358,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d8112410-854f-455b-b49b-747c3ca7ac92_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!TvuB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8112410-854f-455b-b49b-747c3ca7ac92_1024x1024.png",
+      "localPath": "writing/a7bca08f5f68382752512c77.jpg",
+      "sha256": "a7bca08f5f68382752512c772eee8edb2f6b75b2a03c5a06b9c1f4e1c3787d49",
+      "bytes": 76108,
+      "displayPath": "writing/9da9fcf2f2ef9d0d72006cda.webp",
+      "displaySha256": "9da9fcf2f2ef9d0d72006cda4929b7a60b16b94a2b22a9b4354f12e9175a0ded",
+      "displayBytes": 53188,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d356c42b-afa2-4aff-8e5d-91f16f76c2cb_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!sI2Q!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd356c42b-afa2-4aff-8e5d-91f16f76c2cb_1024x1024.png",
+      "localPath": "writing/492382b146608a1166fa05e8.jpg",
+      "sha256": "492382b146608a1166fa05e830f7a5b365c87352c2e6d5ebc409088f0cbdfc02",
+      "bytes": 77739,
+      "displayPath": "writing/babb2267cdf1933c5f0428d4.webp",
+      "displaySha256": "babb2267cdf1933c5f0428d4a226231615ae2a2a886d6c60292a2c12c8f76656",
+      "displayBytes": 75078,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b5fa3250-8bef-4480-a510-c13f366ebea3_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!MjsG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5fa3250-8bef-4480-a510-c13f366ebea3_1024x1024.png",
+      "localPath": "writing/63c594d4d1c460ae3f5dff3d.jpg",
+      "sha256": "63c594d4d1c460ae3f5dff3d64d6bff7722e346fd23d7dc2f6547192c8adcf2d",
+      "bytes": 220997,
+      "displayPath": "writing/7bee714e380d196c2754f2e2.webp",
+      "displaySha256": "7bee714e380d196c2754f2e201a12632246bb722bc1f4ebb653e36c48809b1b0",
+      "displayBytes": 199618,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c8065bfb-bdf7-4a60-a26e-96c16e89b17b_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!0zev!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8065bfb-bdf7-4a60-a26e-96c16e89b17b_1024x1024.png",
+      "localPath": "writing/b5187b3a953fcf4d048d3732.jpg",
+      "sha256": "b5187b3a953fcf4d048d3732c1fcd8e47ede965f42f40853b47ae25f9cc2a446",
+      "bytes": 123326,
+      "displayPath": "writing/30a8e0e1f708898a4415c459.webp",
+      "displaySha256": "30a8e0e1f708898a4415c459bc215d089cf63091b0352938e2403d4b258f7089",
+      "displayBytes": 120630,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9b7ae13e-dda6-4984-a88d-fa62fdf40a80_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!o7gW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b7ae13e-dda6-4984-a88d-fa62fdf40a80_1024x1024.png",
+      "localPath": "writing/03333e2090d68e5333138b6c.jpg",
+      "sha256": "03333e2090d68e5333138b6c41223f88a720b640b3617969a09277007960e6b3",
+      "bytes": 149546,
+      "displayPath": "writing/42d451a7008c12d98b0abff8.webp",
+      "displaySha256": "42d451a7008c12d98b0abff857ed9ebfa447c89992c4ddb271b61f955512f0b8",
+      "displayBytes": 159968,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b8e68425-3e3f-41e6-b27b-e3080265ba68_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!4ltA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8e68425-3e3f-41e6-b27b-e3080265ba68_1024x1024.png",
+      "localPath": "writing/0c29f40b2e43b7e8d273562e.jpg",
+      "sha256": "0c29f40b2e43b7e8d273562ee39634667e1cc86031231c3018bc78fea681cb0c",
+      "bytes": 199700,
+      "displayPath": "writing/d9c65c7a0034fcd2256b9b73.webp",
+      "displaySha256": "d9c65c7a0034fcd2256b9b7327a756dc519154be4ff143fb29a384f1374b8067",
+      "displayBytes": 215396,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4b64c240-af5f-406f-91db-21992936d05d_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!RU9g!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4b64c240-af5f-406f-91db-21992936d05d_1024x1024.png",
+      "localPath": "writing/ab247d1f95d7e3c40d17fdc6.jpg",
+      "sha256": "ab247d1f95d7e3c40d17fdc616d1024850db2b915a1e084cfe2d55010f8c825d",
+      "bytes": 66927,
+      "displayPath": "writing/fab52ffa32fc87096e2e5fb1.webp",
+      "displaySha256": "fab52ffa32fc87096e2e5fb18d99d408fe75a85a4ce9b9e067930abd00760bf0",
+      "displayBytes": 47530,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0801ce89-7bc8-4993-8be7-c2d024ed064b_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!qKnF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0801ce89-7bc8-4993-8be7-c2d024ed064b_1024x1024.png",
+      "localPath": "writing/5007d74f4e4c298eca1cb3b2.jpg",
+      "sha256": "5007d74f4e4c298eca1cb3b2844d2cc426541e817948d0a2a46a918c55aa5f7c",
+      "bytes": 234566,
+      "displayPath": "writing/ee86a4d21f52bcbd3a0bded9.webp",
+      "displaySha256": "ee86a4d21f52bcbd3a0bded9e31dce4e7f13e0ea5ddfcc22f180ffb9e934c0ce",
+      "displayBytes": 258032,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2e4cf14a-974b-4029-93f5-93fefb35e766_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!4XXx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2e4cf14a-974b-4029-93f5-93fefb35e766_1024x1024.png",
+      "localPath": "writing/d1274880a3670c927da7118e.jpg",
+      "sha256": "d1274880a3670c927da7118e42e835a490e0ff9ab0aa23cefd4d2084dee98e07",
+      "bytes": 110154,
+      "displayPath": "writing/62b07577aa0a25b2f7fe17fe.webp",
+      "displaySha256": "62b07577aa0a25b2f7fe17fed00324e54fff0c7625d409fa23926c42f0d892a5",
+      "displayBytes": 84852,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a9ab03c3-aef8-45aa-9369-0a19206b0562_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!G-cE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9ab03c3-aef8-45aa-9369-0a19206b0562_1024x1024.png",
+      "localPath": "writing/c0e2aa220d244fa1e851475b.jpg",
+      "sha256": "c0e2aa220d244fa1e851475bdf2b68a93ce23ce31358b57ab69b590865449b8d",
+      "bytes": 131343,
+      "displayPath": "writing/99fd3b48afe2251899316914.webp",
+      "displaySha256": "99fd3b48afe2251899316914f9a84c567af82910cd634efbdc1b885ff830664f",
+      "displayBytes": 101236,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f9bb24f4-4e85-406a-bc99-5e7622f239a5_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!ktT6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9bb24f4-4e85-406a-bc99-5e7622f239a5_1024x1024.png",
+      "localPath": "writing/7cb36b574b5b930046cf5a1c.jpg",
+      "sha256": "7cb36b574b5b930046cf5a1cb44842dc3d78bcf61ecdd4a5ce42e70c1d34b10b",
+      "bytes": 119557,
+      "displayPath": "writing/2a7b4008b857b1c2e103f25a.webp",
+      "displaySha256": "2a7b4008b857b1c2e103f25a62198e39a42273b1c0adbb16539008a8ade9cbb0",
+      "displayBytes": 114404,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5e19615d-67fe-403c-b727-cc9696f091c4_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!ar4z!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5e19615d-67fe-403c-b727-cc9696f091c4_1024x1024.png",
+      "localPath": "writing/1d148327838f8ddb86b1647a.jpg",
+      "sha256": "1d148327838f8ddb86b1647ac3a40ba6e3cd6cccddeccddeb67ec25097610a29",
+      "bytes": 110959,
+      "displayPath": "writing/202827854ff5a3313b916356.webp",
+      "displaySha256": "202827854ff5a3313b916356b8a8dc4b6570e7450841613ff3acbb3173cff37c",
+      "displayBytes": 112386,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1874f8aa-f569-4aaf-85b5-e86040962e67_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!Yeg8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1874f8aa-f569-4aaf-85b5-e86040962e67_1024x1024.png",
+      "localPath": "writing/a6a90223802200ffda1f293f.jpg",
+      "sha256": "a6a90223802200ffda1f293f8ab9b3b32714507b5062e5f87cf0bdc5e47554ef",
+      "bytes": 207858,
+      "displayPath": "writing/d567cf4da1b5cb1da8ac892a.webp",
+      "displaySha256": "d567cf4da1b5cb1da8ac892ae9015fcfda4f311673427b47fbc427e5124cf046",
+      "displayBytes": 206196,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7f5193c3-e14b-457e-8adb-3991e5433c0f_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!jbvL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7f5193c3-e14b-457e-8adb-3991e5433c0f_1024x1024.png",
+      "localPath": "writing/62966e401f1d97668b52f26b.jpg",
+      "sha256": "62966e401f1d97668b52f26b62b1cfa122f5e9ddeaf1352b13dc1732f013eb1d",
+      "bytes": 171667,
+      "displayPath": "writing/473ab242717a4b6eec9cd654.webp",
+      "displaySha256": "473ab242717a4b6eec9cd65433e43cb259911c9b436c124b62241cca9ecc84ad",
+      "displayBytes": 161830,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/df96aed4-12ce-4864-abbf-6bd5953de4a9_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!6R09!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf96aed4-12ce-4864-abbf-6bd5953de4a9_1024x1024.png",
+      "localPath": "writing/6cf2f5fd02e7e964e9e86623.jpg",
+      "sha256": "6cf2f5fd02e7e964e9e86623415c2794f57048b6a6e3b240c9808d79737ad8ed",
+      "bytes": 66199,
+      "displayPath": "writing/e8c9fc5ef23f201ee0ffb31c.webp",
+      "displaySha256": "e8c9fc5ef23f201ee0ffb31cc8a19a53a6bb10d94af5f34f5db24a6c2e097414",
+      "displayBytes": 44196,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/96a967c3-ff2f-454d-ba35-69e3993d7d15_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!belj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F96a967c3-ff2f-454d-ba35-69e3993d7d15_1024x1024.png",
+      "localPath": "writing/14e41f5e70e19952a13f43a2.jpg",
+      "sha256": "14e41f5e70e19952a13f43a285ca4f4feceb68177749c10abd2521653d8220a6",
+      "bytes": 102733,
+      "displayPath": "writing/4d84b0886d39e6b3017f2e0d.webp",
+      "displaySha256": "4d84b0886d39e6b3017f2e0dadc205fc29fa87f09b11484bcaa88f2a58e21edf",
+      "displayBytes": 78898,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9db598a3-9f39-406f-91be-ba338d666791_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!_g7H!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9db598a3-9f39-406f-91be-ba338d666791_1024x1024.png",
+      "localPath": "writing/a91043fea0e8014d53424820.jpg",
+      "sha256": "a91043fea0e8014d53424820c02a76513d08f19dcd1c75099c5c4853bb2e2768",
+      "bytes": 162845,
+      "displayPath": "writing/dfacb2a892af9260fb958e79.webp",
+      "displaySha256": "dfacb2a892af9260fb958e795fb3e3187fef06ad1d0bceff49e9249ecfe79746",
+      "displayBytes": 162172,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d6b08c02-a2d1-4691-bf68-79f841d2e6c6_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!gAXG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6b08c02-a2d1-4691-bf68-79f841d2e6c6_1024x1024.png",
+      "localPath": "writing/9237ed744c879e6d81464d05.jpg",
+      "sha256": "9237ed744c879e6d81464d05aeb04947d70ec6791f36e14692d91c93d33ef4f2",
+      "bytes": 145347,
+      "displayPath": "writing/19e086e58ec833299604fcdd.webp",
+      "displaySha256": "19e086e58ec833299604fcddba29ef4a6d77878cd704156ce6689f625361891f",
+      "displayBytes": 134988,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/10f9e091-abae-4149-8b8e-d8349e81fefb_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!lglM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F10f9e091-abae-4149-8b8e-d8349e81fefb_1024x1024.png",
+      "localPath": "writing/811aa72eff6d6d22c0546098.jpg",
+      "sha256": "811aa72eff6d6d22c05460983e4850354ceaef46f71d262e6e701af246ffaff7",
+      "bytes": 140164,
+      "displayPath": "writing/492359283ac9d35a0a33dfa2.webp",
+      "displaySha256": "492359283ac9d35a0a33dfa23f8f66f1f8eccdcd3a26ec545bf0243ad9600b19",
+      "displayBytes": 151090,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e8821116-89bb-47e1-bfa2-d8e79f04d6e9_1024x1024.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!8jdN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8821116-89bb-47e1-bfa2-d8e79f04d6e9_1024x1024.png",
+      "localPath": "writing/f7e6021f5b5180e7654c7dfe.jpg",
+      "sha256": "f7e6021f5b5180e7654c7dfe360bc2ee64002e326eb60bef858de1090a25b547",
+      "bytes": 116455,
+      "displayPath": "writing/8314b19b0753b8ccb0e41313.webp",
+      "displaySha256": "8314b19b0753b8ccb0e4131333658e37039a41e375cef37cdb42d9dafe35ffbf",
+      "displayBytes": 97276,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8e7d6b2e-8274-4e0d-b0fd-69d47360347c_1920x1439.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!9G1j!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8e7d6b2e-8274-4e0d-b0fd-69d47360347c_1920x1439.jpeg",
+      "localPath": "writing/fb80f307dc46e5e77c451a66.jpg",
+      "sha256": "fb80f307dc46e5e77c451a66d5e08b7d87fd021a956fd28dfc36a9b5841e1425",
+      "bytes": 476120,
+      "displayPath": "writing/a653f4433f4273ec97a32c9a.webp",
+      "displaySha256": "a653f4433f4273ec97a32c9ad456df57497e793070d88971e17edc937f92d780",
+      "displayBytes": 586106,
+      "width": 1456,
+      "height": 1091
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/bea109d7-82b3-4a07-8395-51796466987d_2048x1356.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!nIjf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbea109d7-82b3-4a07-8395-51796466987d_2048x1356.jpeg",
+      "localPath": "writing/8cdf9632e54747e09d244eb7.jpg",
+      "sha256": "8cdf9632e54747e09d244eb7287c5923bff432ba1f0cabc34d4d9aa655b705b0",
+      "bytes": 116795,
+      "displayPath": "writing/113ede08f49c0f9692c982e0.webp",
+      "displaySha256": "113ede08f49c0f9692c982e05c7f30aeb64896ebe7aeae4b40ca69da0ac086d7",
+      "displayBytes": 102346,
+      "width": 1456,
+      "height": 964
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9b38dd85-d17f-40c6-8fca-e8c94558f743_400x300.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!Aoyo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b38dd85-d17f-40c6-8fca-e8c94558f743_400x300.png",
+      "localPath": "writing/56382c15c05393465a1f6c1f.jpg",
+      "sha256": "56382c15c05393465a1f6c1f4988423eb681090c594dda3217d9e1bcfa7e3ac4",
+      "bytes": 27310,
+      "displayPath": "writing/432de8b4a942d08c42b5298e.webp",
+      "displaySha256": "432de8b4a942d08c42b5298e7aefe54aba1c8a37582c81dcc9db8e727041e08b",
+      "displayBytes": 33694,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/79cea86b-f673-4cbe-ba42-f15db1457b51_1200x1200.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!vxrC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F79cea86b-f673-4cbe-ba42-f15db1457b51_1200x1200.jpeg",
+      "localPath": "writing/296f24cf2b1b8fc7d87dec8e.jpg",
+      "sha256": "296f24cf2b1b8fc7d87dec8ecfe50bcffc40510f8c6d3c3488ec93187eee9203",
+      "bytes": 239635,
+      "displayPath": "writing/5fecc853d53b592fc3cd6d7b.webp",
+      "displaySha256": "5fecc853d53b592fc3cd6d7b7c2ec2add4a33918a0f48d315c2b2e2d464df84d",
+      "displayBytes": 70038,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/bac04a8e-4fb9-446e-a14d-d98d17897e21_700x557.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!Iqvf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbac04a8e-4fb9-446e-a14d-d98d17897e21_700x557.png",
+      "localPath": "writing/76aec6266ed1d9692be6e6c5.png",
+      "sha256": "76aec6266ed1d9692be6e6c5493a0eeac0d4526584306dd0114c79b74d18f0d9",
+      "bytes": 94138,
+      "displayPath": "writing/5cb611a898e300c2694f5614.webp",
+      "displaySha256": "5cb611a898e300c2694f5614302e8ec70aa09e26a6aa03931e981ea130616a56",
+      "displayBytes": 95934,
+      "width": 700,
+      "height": 557
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/28f03fdc-260b-4c78-a812-6326f526c55e_2271x2388.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!QJPM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28f03fdc-260b-4c78-a812-6326f526c55e_2271x2388.jpeg",
+      "localPath": "writing/9738747843f7acb630211358.jpg",
+      "sha256": "9738747843f7acb6302113584fdc8568ffa5cf34c21649f765506db40bf49a04",
+      "bytes": 310093,
+      "displayPath": "writing/6b7ab6e66b2353900aa2cfaf.webp",
+      "displaySha256": "6b7ab6e66b2353900aa2cfafc3cf1d0c4a2178236da43224bb80de530bd00249",
+      "displayBytes": 283022,
+      "width": 1456,
+      "height": 1531
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ebb83474-9355-4763-8420-2afb059147f9_2880x1920.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!KmS1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Febb83474-9355-4763-8420-2afb059147f9_2880x1920.jpeg",
+      "localPath": "writing/2218514d62fddeab86b80453.jpg",
+      "sha256": "2218514d62fddeab86b804537a17ed3e7b8450e8e702398396ef25d831a46f80",
+      "bytes": 109237,
+      "displayPath": "writing/7b39bd542451a1a9ffd54143.webp",
+      "displaySha256": "7b39bd542451a1a9ffd541434a83c60e9cd711c3269f3dc60a649912c9ce0b8b",
+      "displayBytes": 75994,
+      "width": 1456,
+      "height": 971
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0fce7a44-c5bc-4441-889c-cf8ce3707fbc_960x577.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!umI_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0fce7a44-c5bc-4441-889c-cf8ce3707fbc_960x577.jpeg",
+      "localPath": "writing/8029b9b43c27c9df9db7eeb2.jpg",
+      "sha256": "8029b9b43c27c9df9db7eeb20ca25edbac29a8e3bb9fb5b3caab07b9eb6ffd40",
+      "bytes": 44051,
+      "displayPath": "writing/a7f5aae8fc5604bb15762e14.webp",
+      "displaySha256": "a7f5aae8fc5604bb15762e14b949dd52b1cbe754b190259514e4a1aee2e0889d",
+      "displayBytes": 34876,
+      "width": 960,
+      "height": 577
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/04a1e412-d76c-4ac9-a0dd-8a7d91ce3de1_2880x1440.png",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!m_Sv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F04a1e412-d76c-4ac9-a0dd-8a7d91ce3de1_2880x1440.png",
+      "localPath": "writing/bd6a275777a22ce5760412c3.png",
+      "sha256": "bd6a275777a22ce5760412c3fab46edc85f2240624e40c67f58bce6d228fc31b",
+      "bytes": 231869,
+      "displayPath": "writing/3f194874342b83e054913587.webp",
+      "displaySha256": "3f194874342b83e054913587ba99c5fa3c0b76b9c06ed0ee01a4b9bb924dfe3f",
+      "displayBytes": 96920,
+      "width": 1456,
+      "height": 728
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7248bc52-8d66-4a7a-ab35-a58e63457c67_1500x709.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!-jxD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7248bc52-8d66-4a7a-ab35-a58e63457c67_1500x709.jpeg",
+      "localPath": "writing/41a557c128f23bf6894f8259.jpg",
+      "sha256": "41a557c128f23bf6894f825971c030f63256968ccf23d217d41ca927c6ab6984",
+      "bytes": 49551,
+      "displayPath": "writing/27f893c3ee7d768fc9725e01.webp",
+      "displaySha256": "27f893c3ee7d768fc9725e011ce769c4f3acda7d65856920e8b826412c9dd71f",
+      "displayBytes": 20206,
+      "width": 1456,
+      "height": 688
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/84d86199-1e27-4b39-add2-a76c930d8490_1280x720.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!7GyI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F84d86199-1e27-4b39-add2-a76c930d8490_1280x720.jpeg",
+      "localPath": "writing/83e30cf3b96cd58c3f2bb7b1.jpg",
+      "sha256": "83e30cf3b96cd58c3f2bb7b1bcc3bb239d07ecdaafa22ddbd041664e54cb0236",
+      "bytes": 82070,
+      "displayPath": "writing/4be5c2764dec1531be6d0266.webp",
+      "displaySha256": "4be5c2764dec1531be6d026692c1a63e9eeb32403aed46829c8ca0051477b54b",
+      "displayBytes": 67710,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/00752ec3-0eb3-41f3-b42f-4d28060ac26a_2000x1333.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!7piO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F00752ec3-0eb3-41f3-b42f-4d28060ac26a_2000x1333.jpeg",
+      "localPath": "writing/63a065b7d72a7693c40566cd.jpg",
+      "sha256": "63a065b7d72a7693c40566cdb1a7a49fb28ef0a8b463b14e9834388dd653038f",
+      "bytes": 137725,
+      "displayPath": "writing/ba72c42569d970a69b8321fb.webp",
+      "displaySha256": "ba72c42569d970a69b8321fba8ecf350e3c394691293a5a4d42249174bc4ae7d",
+      "displayBytes": 9072,
+      "width": 1456,
+      "height": 970
+    },
+    {
+      "sourceUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5ee28f1f-a9dc-4b79-b515-b13dc4ea2649_700x769.jpeg",
+      "downloadUrl": "https://substackcdn.com/image/fetch/$s_!Z2mn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5ee28f1f-a9dc-4b79-b515-b13dc4ea2649_700x769.jpeg",
+      "localPath": "writing/0aaf465987ea6a52d8511a79.jpg",
+      "sha256": "0aaf465987ea6a52d8511a79df7d729787dbfc3437e762f3c1f0789bb6e91dc5",
+      "bytes": 34499,
+      "displayPath": "writing/d1624947f13288d6309c90b1.webp",
+      "displaySha256": "d1624947f13288d6309c90b145cce13823e290f459255fc9efc4063053ee615b",
+      "displayBytes": 22656,
+      "width": 700,
+      "height": 769
+    }
+  ],
+  "posts": [
+    {
+      "slug": "rip-dolly-parton",
+      "sourceUrl": "https://joshua.substack.com/p/rip-dolly-parton",
+      "date": "2026-08-26T02:55:17.516Z",
+      "sourceWordCount": 130,
+      "preservedWords": 130,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "i-got-fat",
+      "sourceUrl": "https://joshua.substack.com/p/i-got-fat",
+      "date": "2026-06-04T00:53:18.789Z",
+      "sourceWordCount": 296,
+      "preservedWords": 294,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "we-stop-creating-new-memories",
+      "sourceUrl": "https://joshua.substack.com/p/we-stop-creating-new-memories",
+      "date": "2026-05-11T00:13:58.148Z",
+      "sourceWordCount": 153,
+      "preservedWords": 152,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "get-regular-bloodwork",
+      "sourceUrl": "https://joshua.substack.com/p/get-regular-bloodwork",
+      "date": "2026-03-05T16:44:58.448Z",
+      "sourceWordCount": 180,
+      "preservedWords": 181,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "its-my-36th-bday",
+      "sourceUrl": "https://joshua.substack.com/p/its-my-36th-bday",
+      "date": "2025-10-29T15:47:31.760Z",
+      "sourceWordCount": 237,
+      "preservedWords": 237,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "apple-is-losing-itself",
+      "sourceUrl": "https://joshua.substack.com/p/apple-is-losing-itself",
+      "date": "2025-06-19T23:54:57.197Z",
+      "sourceWordCount": 115,
+      "preservedWords": 114,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "now-im-the-contrarian",
+      "sourceUrl": "https://joshua.substack.com/p/now-im-the-contrarian",
+      "date": "2025-06-19T01:05:09.890Z",
+      "sourceWordCount": 217,
+      "preservedWords": 213,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "overthinking-is-killing-you",
+      "sourceUrl": "https://joshua.substack.com/p/overthinking-is-killing-you",
+      "date": "2025-04-08T19:22:43.716Z",
+      "sourceWordCount": 262,
+      "preservedWords": 263,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "dont-be-nice-be-kind",
+      "sourceUrl": "https://joshua.substack.com/p/dont-be-nice-be-kind",
+      "date": "2025-02-19T03:18:11.870Z",
+      "sourceWordCount": 242,
+      "preservedWords": 236,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "stop-assuming-things",
+      "sourceUrl": "https://joshua.substack.com/p/stop-assuming-things",
+      "date": "2025-02-14T00:44:04.062Z",
+      "sourceWordCount": 180,
+      "preservedWords": 180,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "5-minute-work-hack",
+      "sourceUrl": "https://joshua.substack.com/p/5-minute-work-hack",
+      "date": "2025-01-23T01:31:29.565Z",
+      "sourceWordCount": 152,
+      "preservedWords": 154,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "slow-is-smooth-smooth-is-fast",
+      "sourceUrl": "https://joshua.substack.com/p/slow-is-smooth-smooth-is-fast",
+      "date": "2025-01-20T21:51:08.768Z",
+      "sourceWordCount": 101,
+      "preservedWords": 100,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "i-made-two-simple-changes-in-2024",
+      "sourceUrl": "https://joshua.substack.com/p/i-made-two-simple-changes-in-2024",
+      "date": "2025-01-17T03:44:54.545Z",
+      "sourceWordCount": 175,
+      "preservedWords": 172,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "sign up for my thingy"
+      ]
+    },
+    {
+      "slug": "taking-feedback",
+      "sourceUrl": "https://joshua.substack.com/p/taking-feedback",
+      "date": "2024-09-12T00:10:07.013Z",
+      "sourceWordCount": 89,
+      "preservedWords": 89,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "self-confidence",
+      "sourceUrl": "https://joshua.substack.com/p/self-confidence",
+      "date": "2024-06-05T18:11:24.322Z",
+      "sourceWordCount": 24,
+      "preservedWords": 23,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "memento-mori",
+      "sourceUrl": "https://joshua.substack.com/p/memento-mori",
+      "date": "2024-04-29T05:07:46.673Z",
+      "sourceWordCount": 310,
+      "preservedWords": 310,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "nvidia-ceo-jensen-huang-people-with",
+      "sourceUrl": "https://joshua.substack.com/p/nvidia-ceo-jensen-huang-people-with",
+      "date": "2024-03-17T20:20:18.930Z",
+      "sourceWordCount": 0,
+      "preservedWords": 0,
+      "images": 0,
+      "captions": 0,
+      "embeds": 1,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "weight-loss-will-solve-50-of-your-72d",
+      "sourceUrl": "https://joshua.substack.com/p/weight-loss-will-solve-50-of-your-72d",
+      "date": "2024-03-02T17:46:32.183Z",
+      "sourceWordCount": 1807,
+      "preservedWords": 1793,
+      "images": 4,
+      "captions": 1,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "imposter-syndrome-is-for-amateurs",
+      "sourceUrl": "https://joshua.substack.com/p/imposter-syndrome-is-for-amateurs",
+      "date": "2024-02-05T21:26:07.225Z",
+      "sourceWordCount": 85,
+      "preservedWords": 84,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "not-knowing-things",
+      "sourceUrl": "https://joshua.substack.com/p/not-knowing-things",
+      "date": "2024-01-10T20:18:41.161Z",
+      "sourceWordCount": 0,
+      "preservedWords": 0,
+      "images": 0,
+      "captions": 0,
+      "embeds": 1,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "i-was-wrong",
+      "sourceUrl": "https://joshua.substack.com/p/i-was-wrong",
+      "date": "2024-01-08T22:40:01.062Z",
+      "sourceWordCount": 292,
+      "preservedWords": 283,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "bill-ackman-on-dei",
+      "sourceUrl": "https://joshua.substack.com/p/bill-ackman-on-dei",
+      "date": "2024-01-04T19:36:28.070Z",
+      "sourceWordCount": 4126,
+      "preservedWords": 4098,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "think-less",
+      "sourceUrl": "https://joshua.substack.com/p/think-less",
+      "date": "2023-12-31T18:49:58.880Z",
+      "sourceWordCount": 155,
+      "preservedWords": 154,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "fix-your-terrible-posture-5-habits",
+      "sourceUrl": "https://joshua.substack.com/p/fix-your-terrible-posture-5-habits",
+      "date": "2023-12-21T19:35:45.801Z",
+      "sourceWordCount": 57,
+      "preservedWords": 57,
+      "images": 0,
+      "captions": 0,
+      "embeds": 1,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "some-rerealizations",
+      "sourceUrl": "https://joshua.substack.com/p/some-rerealizations",
+      "date": "2023-11-28T17:06:10.278Z",
+      "sourceWordCount": 427,
+      "preservedWords": 416,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "how-to-win-the-fight-for-america",
+      "sourceUrl": "https://joshua.substack.com/p/how-to-win-the-fight-for-america",
+      "date": "2023-11-22T17:52:44.333Z",
+      "sourceWordCount": 1987,
+      "preservedWords": 1971,
+      "images": 0,
+      "captions": 0,
+      "embeds": 1,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "projects-vs-jobs",
+      "sourceUrl": "https://joshua.substack.com/p/projects-vs-jobs",
+      "date": "2023-11-12T21:23:35.320Z",
+      "sourceWordCount": 532,
+      "preservedWords": 528,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Leave a comment",
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "thinking-for-yourself",
+      "sourceUrl": "https://joshua.substack.com/p/thinking-for-yourself",
+      "date": "2023-11-02T22:32:26.565Z",
+      "sourceWordCount": 373,
+      "preservedWords": 367,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "weight-loss-will-solve-50-of-your",
+      "sourceUrl": "https://joshua.substack.com/p/weight-loss-will-solve-50-of-your",
+      "date": "2023-10-27T22:43:24.214Z",
+      "sourceWordCount": 1807,
+      "preservedWords": 1793,
+      "images": 3,
+      "captions": 1,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Leave a comment"
+      ]
+    },
+    {
+      "slug": "notes-on-prague-and-budapest",
+      "sourceUrl": "https://joshua.substack.com/p/notes-on-prague-and-budapest",
+      "date": "2023-10-19T22:23:34.246Z",
+      "sourceWordCount": 1540,
+      "preservedWords": 1546,
+      "images": 6,
+      "captions": 5,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "jew",
+      "sourceUrl": "https://joshua.substack.com/p/jew",
+      "date": "2023-10-11T21:55:50.872Z",
+      "sourceWordCount": 0,
+      "preservedWords": 0,
+      "images": 0,
+      "captions": 0,
+      "embeds": 1,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Leave a comment",
+        "Share Joshua's Newsletter"
+      ]
+    },
+    {
+      "slug": "what-we-learned-living-in-airbnbs",
+      "sourceUrl": "https://joshua.substack.com/p/what-we-learned-living-in-airbnbs",
+      "date": "2023-09-30T16:07:17.991Z",
+      "sourceWordCount": 1067,
+      "preservedWords": 1059,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "i-love-the-substack-community",
+      "sourceUrl": "https://joshua.substack.com/p/i-love-the-substack-community",
+      "date": "2023-09-28T19:00:39.523Z",
+      "sourceWordCount": 216,
+      "preservedWords": 214,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "coopers-hill-cheese-rolling-and-wake",
+      "sourceUrl": "https://joshua.substack.com/p/coopers-hill-cheese-rolling-and-wake",
+      "date": "2023-09-25T23:09:02.490Z",
+      "sourceWordCount": 319,
+      "preservedWords": 311,
+      "images": 1,
+      "captions": 0,
+      "embeds": 1,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "you-can-be-rich-happy-both-and-neither",
+      "sourceUrl": "https://joshua.substack.com/p/you-can-be-rich-happy-both-and-neither",
+      "date": "2023-09-23T17:15:24.735Z",
+      "sourceWordCount": 0,
+      "preservedWords": 0,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "consumer-to-creator",
+      "sourceUrl": "https://joshua.substack.com/p/consumer-to-creator",
+      "date": "2023-09-22T18:38:33.472Z",
+      "sourceWordCount": 487,
+      "preservedWords": 482,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Leave a comment",
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "books-im-currently-reading",
+      "sourceUrl": "https://joshua.substack.com/p/books-im-currently-reading",
+      "date": "2023-09-16T16:28:27.323Z",
+      "sourceWordCount": 427,
+      "preservedWords": 414,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Leave a comment",
+        "Leave a comment"
+      ]
+    },
+    {
+      "slug": "walking-the-path",
+      "sourceUrl": "https://joshua.substack.com/p/walking-the-path",
+      "date": "2023-09-15T03:57:16.221Z",
+      "sourceWordCount": 151,
+      "preservedWords": 150,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Leave a comment"
+      ]
+    },
+    {
+      "slug": "forget-your-optionality",
+      "sourceUrl": "https://joshua.substack.com/p/forget-your-optionality",
+      "date": "2023-09-12T23:05:50.325Z",
+      "sourceWordCount": 188,
+      "preservedWords": 186,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "spaces-shape-you",
+      "sourceUrl": "https://joshua.substack.com/p/spaces-shape-you",
+      "date": "2023-09-08T21:04:08.543Z",
+      "sourceWordCount": 229,
+      "preservedWords": 241,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "morning-routine",
+      "sourceUrl": "https://joshua.substack.com/p/morning-routine",
+      "date": "2023-09-07T04:59:09.778Z",
+      "sourceWordCount": 826,
+      "preservedWords": 828,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "my-goal-for-this-blog",
+      "sourceUrl": "https://joshua.substack.com/p/my-goal-for-this-blog",
+      "date": "2023-09-02T16:56:10.485Z",
+      "sourceWordCount": 295,
+      "preservedWords": 298,
+      "images": 1,
+      "captions": 1,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Share Joshua's Blog"
+      ]
+    },
+    {
+      "slug": "what-game-are-you-playing",
+      "sourceUrl": "https://joshua.substack.com/p/what-game-are-you-playing",
+      "date": "2023-08-31T19:37:51.647Z",
+      "sourceWordCount": 49,
+      "preservedWords": 49,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Share Joshua's Blog"
+      ]
+    },
+    {
+      "slug": "unclench",
+      "sourceUrl": "https://joshua.substack.com/p/unclench",
+      "date": "2023-08-30T05:07:17.082Z",
+      "sourceWordCount": 0,
+      "preservedWords": 0,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "what-you-dont-want-to-do",
+      "sourceUrl": "https://joshua.substack.com/p/what-you-dont-want-to-do",
+      "date": "2023-08-29T20:43:13.327Z",
+      "sourceWordCount": 146,
+      "preservedWords": 131,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "To receive new posts and support my work, consider becoming a free or paid subscriber."
+      ]
+    },
+    {
+      "slug": "nobody-knows-what-theyre-doing",
+      "sourceUrl": "https://joshua.substack.com/p/nobody-knows-what-theyre-doing",
+      "date": "2023-08-27T02:35:11.778Z",
+      "sourceWordCount": 146,
+      "preservedWords": 142,
+      "images": 0,
+      "captions": 0,
+      "embeds": 1,
+      "textParity": true,
+      "removedPlatformText": [
+        "Share Joshua's Blog"
+      ]
+    },
+    {
+      "slug": "make-a-haiku-updated",
+      "sourceUrl": "https://joshua.substack.com/p/make-a-haiku-updated",
+      "date": "2023-08-25T03:02:28.633Z",
+      "sourceWordCount": 56,
+      "preservedWords": 55,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "nobody-wants-to-read-your-sht",
+      "sourceUrl": "https://joshua.substack.com/p/nobody-wants-to-read-your-sht",
+      "date": "2023-08-21T22:51:24.254Z",
+      "sourceWordCount": 66,
+      "preservedWords": 66,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Go Premium"
+      ]
+    },
+    {
+      "slug": "how-to-breathe",
+      "sourceUrl": "https://joshua.substack.com/p/how-to-breathe",
+      "date": "2023-08-17T16:06:51.385Z",
+      "sourceWordCount": 334,
+      "preservedWords": 332,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "whats-real",
+      "sourceUrl": "https://joshua.substack.com/p/whats-real",
+      "date": "2023-08-13T16:32:42.072Z",
+      "sourceWordCount": 275,
+      "preservedWords": 277,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "daily-build",
+      "sourceUrl": "https://joshua.substack.com/p/daily-build",
+      "date": "2023-08-10T03:03:01.397Z",
+      "sourceWordCount": 212,
+      "preservedWords": 218,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "intelligence-consciousness",
+      "sourceUrl": "https://joshua.substack.com/p/intelligence-consciousness",
+      "date": "2023-07-26T18:09:06.121Z",
+      "sourceWordCount": 205,
+      "preservedWords": 208,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "haiku-from-claude",
+      "sourceUrl": "https://joshua.substack.com/p/haiku-from-claude",
+      "date": "2023-07-25T04:38:11.196Z",
+      "sourceWordCount": 54,
+      "preservedWords": 54,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "blockage",
+      "sourceUrl": "https://joshua.substack.com/p/blockage",
+      "date": "2023-06-21T17:18:44.626Z",
+      "sourceWordCount": 210,
+      "preservedWords": 210,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "joshua-tree-notes-and-the-end-of",
+      "sourceUrl": "https://joshua.substack.com/p/joshua-tree-notes-and-the-end-of",
+      "date": "2023-05-29T17:39:08.099Z",
+      "sourceWordCount": 838,
+      "preservedWords": 843,
+      "images": 4,
+      "captions": 3,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "reading-hack",
+      "sourceUrl": "https://joshua.substack.com/p/reading-hack",
+      "date": "2023-05-02T22:48:28.470Z",
+      "sourceWordCount": 95,
+      "preservedWords": 95,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "the-more-labels-you-apply-to-yourself",
+      "sourceUrl": "https://joshua.substack.com/p/the-more-labels-you-apply-to-yourself",
+      "date": "2023-04-25T22:45:37.849Z",
+      "sourceWordCount": 150,
+      "preservedWords": 148,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Share"
+      ]
+    },
+    {
+      "slug": "one-meal-a-day-omad",
+      "sourceUrl": "https://joshua.substack.com/p/one-meal-a-day-omad",
+      "date": "2023-04-14T17:18:06.658Z",
+      "sourceWordCount": 598,
+      "preservedWords": 583,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "stop-fetishizing-the-passage-of-time",
+      "sourceUrl": "https://joshua.substack.com/p/stop-fetishizing-the-passage-of-time",
+      "date": "2023-04-06T15:53:24.354Z",
+      "sourceWordCount": 197,
+      "preservedWords": 200,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "my-journey-in-southeast-asia-2014",
+      "sourceUrl": "https://joshua.substack.com/p/my-journey-in-southeast-asia-2014",
+      "date": "2023-03-22T19:51:59.490Z",
+      "sourceWordCount": 5472,
+      "preservedWords": 5375,
+      "images": 3,
+      "captions": 1,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Joshua's Notes is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.",
+        "Joshua's Notes is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.",
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "austin-notes",
+      "sourceUrl": "https://joshua.substack.com/p/austin-notes",
+      "date": "2023-03-11T17:26:02.571Z",
+      "sourceWordCount": 1304,
+      "preservedWords": 1301,
+      "images": 4,
+      "captions": 4,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Share Joshua's Notes"
+      ]
+    },
+    {
+      "slug": "ways-to-start-a-startup",
+      "sourceUrl": "https://joshua.substack.com/p/ways-to-start-a-startup",
+      "date": "2023-02-23T14:58:55.780Z",
+      "sourceWordCount": 920,
+      "preservedWords": 912,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Share Joshua's Notes"
+      ]
+    },
+    {
+      "slug": "jhana-blissful-ecstasy",
+      "sourceUrl": "https://joshua.substack.com/p/jhana-blissful-ecstasy",
+      "date": "2023-02-16T02:48:10.515Z",
+      "sourceWordCount": 316,
+      "preservedWords": 366,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "david-sacks-on-the-middle-management",
+      "sourceUrl": "https://joshua.substack.com/p/david-sacks-on-the-middle-management",
+      "date": "2023-02-09T21:56:00.189Z",
+      "sourceWordCount": 213,
+      "preservedWords": 212,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "japanese-mini-trucks",
+      "sourceUrl": "https://joshua.substack.com/p/japanese-mini-trucks",
+      "date": "2023-02-07T03:36:21.738Z",
+      "sourceWordCount": 295,
+      "preservedWords": 297,
+      "images": 6,
+      "captions": 2,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "my-new-favorite-product-felt",
+      "sourceUrl": "https://joshua.substack.com/p/my-new-favorite-product-felt",
+      "date": "2023-02-03T17:51:08.671Z",
+      "sourceWordCount": 550,
+      "preservedWords": 554,
+      "images": 4,
+      "captions": 3,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "slow-mornings",
+      "sourceUrl": "https://joshua.substack.com/p/slow-mornings",
+      "date": "2023-02-01T18:25:23.474Z",
+      "sourceWordCount": 244,
+      "preservedWords": 254,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Joshua's Notes is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber."
+      ]
+    },
+    {
+      "slug": "charleston-notes",
+      "sourceUrl": "https://joshua.substack.com/p/charleston-notes",
+      "date": "2023-01-31T03:38:34.208Z",
+      "sourceWordCount": 1039,
+      "preservedWords": 1039,
+      "images": 3,
+      "captions": 3,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "follow-my-spotify-playlist-for-good",
+      "sourceUrl": "https://joshua.substack.com/p/follow-my-spotify-playlist-for-good",
+      "date": "2023-01-27T02:51:45.663Z",
+      "sourceWordCount": 22,
+      "preservedWords": 22,
+      "images": 0,
+      "captions": 0,
+      "embeds": 1,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "books-im-reading",
+      "sourceUrl": "https://joshua.substack.com/p/books-im-reading",
+      "date": "2023-01-26T15:24:12.599Z",
+      "sourceWordCount": 631,
+      "preservedWords": 627,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Share"
+      ]
+    },
+    {
+      "slug": "on-not-forcing-things",
+      "sourceUrl": "https://joshua.substack.com/p/on-not-forcing-things",
+      "date": "2023-01-24T15:32:37.146Z",
+      "sourceWordCount": 322,
+      "preservedWords": 296,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Joshua's notes is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber."
+      ]
+    },
+    {
+      "slug": "tech-is-coming-back-this-year",
+      "sourceUrl": "https://joshua.substack.com/p/tech-is-coming-back-this-year",
+      "date": "2023-01-20T19:03:47.045Z",
+      "sourceWordCount": 438,
+      "preservedWords": 420,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Thanks for reading Joshua's notes! Subscribe for free to receive new posts and support my work."
+      ]
+    },
+    {
+      "slug": "january-16-2023",
+      "sourceUrl": "https://joshua.substack.com/p/january-16-2023",
+      "date": "2023-01-16T16:26:26.474Z",
+      "sourceWordCount": 459,
+      "preservedWords": 456,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "vermont-notes",
+      "sourceUrl": "https://joshua.substack.com/p/vermont-notes",
+      "date": "2023-01-10T03:23:57.106Z",
+      "sourceWordCount": 733,
+      "preservedWords": 745,
+      "images": 8,
+      "captions": 8,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Thanks for reading Joshua's Newsletter! Subscribe for free to receive new posts and support my work.",
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "energy-is-finite",
+      "sourceUrl": "https://joshua.substack.com/p/energy-is-finite",
+      "date": "2022-12-20T23:31:49.055Z",
+      "sourceWordCount": 444,
+      "preservedWords": 444,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "new-york-notes",
+      "sourceUrl": "https://joshua.substack.com/p/new-york-notes",
+      "date": "2022-12-16T03:23:59.954Z",
+      "sourceWordCount": 983,
+      "preservedWords": 961,
+      "images": 3,
+      "captions": 3,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Joshua's Newsletter is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber."
+      ]
+    },
+    {
+      "slug": "essay-thinking-is-working",
+      "sourceUrl": "https://joshua.substack.com/p/essay-thinking-is-working",
+      "date": "2022-12-09T00:40:16.107Z",
+      "sourceWordCount": 983,
+      "preservedWords": 971,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Share"
+      ]
+    },
+    {
+      "slug": "with-vulnerability-comes-betrayal",
+      "sourceUrl": "https://joshua.substack.com/p/with-vulnerability-comes-betrayal",
+      "date": "2022-12-02T19:55:19.368Z",
+      "sourceWordCount": 291,
+      "preservedWords": 327,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Share",
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "how-and-why-i-fast",
+      "sourceUrl": "https://joshua.substack.com/p/how-and-why-i-fast",
+      "date": "2022-12-01T21:26:23.621Z",
+      "sourceWordCount": 1856,
+      "preservedWords": 1848,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Share"
+      ]
+    },
+    {
+      "slug": "joshuas-top-songs-2022",
+      "sourceUrl": "https://joshua.substack.com/p/joshuas-top-songs-2022",
+      "date": "2022-11-30T18:15:16.865Z",
+      "sourceWordCount": 85,
+      "preservedWords": 85,
+      "images": 0,
+      "captions": 0,
+      "embeds": 1,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "cleveland-notes",
+      "sourceUrl": "https://joshua.substack.com/p/cleveland-notes",
+      "date": "2022-11-28T17:19:56.430Z",
+      "sourceWordCount": 481,
+      "preservedWords": 487,
+      "images": 3,
+      "captions": 3,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Share"
+      ]
+    },
+    {
+      "slug": "the-courage-to-be-disliked",
+      "sourceUrl": "https://joshua.substack.com/p/the-courage-to-be-disliked",
+      "date": "2022-11-21T17:08:56.466Z",
+      "sourceWordCount": 201,
+      "preservedWords": 183,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Thanks for reading Joshua's Newsletter! Subscribe for free to receive new posts and support my work."
+      ]
+    },
+    {
+      "slug": "just-start-jazzing",
+      "sourceUrl": "https://joshua.substack.com/p/just-start-jazzing",
+      "date": "2022-11-14T16:43:33.379Z",
+      "sourceWordCount": 202,
+      "preservedWords": 202,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Share"
+      ]
+    },
+    {
+      "slug": "montana-notes",
+      "sourceUrl": "https://joshua.substack.com/p/montana-notes",
+      "date": "2022-11-09T17:14:49.220Z",
+      "sourceWordCount": 1653,
+      "preservedWords": 1661,
+      "images": 4,
+      "captions": 4,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "cooperation-and-game-theory",
+      "sourceUrl": "https://joshua.substack.com/p/cooperation-and-game-theory",
+      "date": "2022-11-03T20:29:08.762Z",
+      "sourceWordCount": 244,
+      "preservedWords": 243,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "practicing-happiness",
+      "sourceUrl": "https://joshua.substack.com/p/practicing-happiness",
+      "date": "2022-11-02T23:37:01.320Z",
+      "sourceWordCount": 243,
+      "preservedWords": 241,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "reaching-for-the-stars-to-save-earth",
+      "sourceUrl": "https://joshua.substack.com/p/reaching-for-the-stars-to-save-earth",
+      "date": "2022-10-14T21:41:32.309Z",
+      "sourceWordCount": 455,
+      "preservedWords": 451,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "sept-16-weekly-notes",
+      "sourceUrl": "https://joshua.substack.com/p/sept-16-weekly-notes",
+      "date": "2022-09-16T23:51:50.211Z",
+      "sourceWordCount": 306,
+      "preservedWords": 309,
+      "images": 0,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Share"
+      ]
+    },
+    {
+      "slug": "advaita-vedanta",
+      "sourceUrl": "https://joshua.substack.com/p/advaita-vedanta",
+      "date": "2022-09-10T18:11:18.628Z",
+      "sourceWordCount": 410,
+      "preservedWords": 399,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe for free to receive new posts"
+      ]
+    },
+    {
+      "slug": "the-myth-of-narcissus",
+      "sourceUrl": "https://joshua.substack.com/p/the-myth-of-narcissus",
+      "date": "2022-08-18T16:26:04.440Z",
+      "sourceWordCount": 190,
+      "preservedWords": 191,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Share"
+      ]
+    },
+    {
+      "slug": "dall-e-experiments-pt-2",
+      "sourceUrl": "https://joshua.substack.com/p/dall-e-experiments-pt-2",
+      "date": "2022-08-10T23:49:42.551Z",
+      "sourceWordCount": 170,
+      "preservedWords": 168,
+      "images": 9,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Share"
+      ]
+    },
+    {
+      "slug": "malcom-gladwell-is-wrong-about-working",
+      "sourceUrl": "https://joshua.substack.com/p/malcom-gladwell-is-wrong-about-working",
+      "date": "2022-08-09T17:02:27.702Z",
+      "sourceWordCount": 796,
+      "preservedWords": 793,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Share"
+      ]
+    },
+    {
+      "slug": "the-creator-economy-crypto-and-ai",
+      "sourceUrl": "https://joshua.substack.com/p/the-creator-economy-crypto-and-ai",
+      "date": "2022-08-05T00:17:36.802Z",
+      "sourceWordCount": 329,
+      "preservedWords": 329,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Share"
+      ]
+    },
+    {
+      "slug": "dall-e-2",
+      "sourceUrl": "https://joshua.substack.com/p/dall-e-2",
+      "date": "2022-08-03T21:40:09.489Z",
+      "sourceWordCount": 242,
+      "preservedWords": 239,
+      "images": 10,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now",
+        "Share"
+      ]
+    },
+    {
+      "slug": "virtues-fit",
+      "sourceUrl": "https://joshua.substack.com/p/virtues-fit",
+      "date": "2022-07-25T20:41:51.491Z",
+      "sourceWordCount": 310,
+      "preservedWords": 307,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Share"
+      ]
+    },
+    {
+      "slug": "to-my-soul",
+      "sourceUrl": "https://joshua.substack.com/p/to-my-soul",
+      "date": "2022-07-21T16:22:41.510Z",
+      "sourceWordCount": 213,
+      "preservedWords": 208,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Share Joshua's Blog"
+      ]
+    },
+    {
+      "slug": "explore-the-random-weird-and-absurd",
+      "sourceUrl": "https://joshua.substack.com/p/explore-the-random-weird-and-absurd",
+      "date": "2022-07-20T00:38:28.107Z",
+      "sourceWordCount": 187,
+      "preservedWords": 187,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "simplify-your-workflows-to-get-shit",
+      "sourceUrl": "https://joshua.substack.com/p/simplify-your-workflows-to-get-shit",
+      "date": "2022-07-19T00:48:22.914Z",
+      "sourceWordCount": 651,
+      "preservedWords": 639,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "you-the-craftsman",
+      "sourceUrl": "https://joshua.substack.com/p/you-the-craftsman",
+      "date": "2022-07-15T23:36:10.955Z",
+      "sourceWordCount": 248,
+      "preservedWords": 244,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe now"
+      ]
+    },
+    {
+      "slug": "the-state-of-our-minds",
+      "sourceUrl": "https://joshua.substack.com/p/the-state-of-our-minds",
+      "date": "2022-07-14T17:14:20.425Z",
+      "sourceWordCount": 161,
+      "preservedWords": 148,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe for free to receive new posts and support my work."
+      ]
+    },
+    {
+      "slug": "the-great-workspace-debate",
+      "sourceUrl": "https://joshua.substack.com/p/the-great-workspace-debate",
+      "date": "2022-07-14T03:42:22.514Z",
+      "sourceWordCount": 611,
+      "preservedWords": 662,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Share"
+      ]
+    },
+    {
+      "slug": "wealth-is-time-affluence",
+      "sourceUrl": "https://joshua.substack.com/p/wealth-is-time-affluence",
+      "date": "2022-07-12T00:41:16.023Z",
+      "sourceWordCount": 327,
+      "preservedWords": 319,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe for free to receive new posts."
+      ]
+    },
+    {
+      "slug": "the-s-curve-journey-or-how-we-learned",
+      "sourceUrl": "https://joshua.substack.com/p/the-s-curve-journey-or-how-we-learned",
+      "date": "2022-07-09T18:23:55.520Z",
+      "sourceWordCount": 341,
+      "preservedWords": 339,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "measuring-trust-at-your-startup",
+      "sourceUrl": "https://joshua.substack.com/p/measuring-trust-at-your-startup",
+      "date": "2022-07-08T17:19:26.759Z",
+      "sourceWordCount": 236,
+      "preservedWords": 236,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "fear-is-the-path-to-the-dark-side",
+      "sourceUrl": "https://joshua.substack.com/p/fear-is-the-path-to-the-dark-side",
+      "date": "2022-07-07T17:33:36.169Z",
+      "sourceWordCount": 159,
+      "preservedWords": 160,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    },
+    {
+      "slug": "values-fit-",
+      "sourceUrl": "https://joshua.substack.com/p/values-fit-",
+      "date": "2022-07-02T00:17:32.273Z",
+      "sourceWordCount": 143,
+      "preservedWords": 135,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": [
+        "Subscribe for free to receive new posts"
+      ]
+    },
+    {
+      "slug": "you-the-artist",
+      "sourceUrl": "https://joshua.substack.com/p/you-the-artist",
+      "date": "2022-06-29T16:53:17.138Z",
+      "sourceWordCount": 80,
+      "preservedWords": 80,
+      "images": 1,
+      "captions": 0,
+      "embeds": 0,
+      "textParity": true,
+      "removedPlatformText": []
+    }
+  ]
+}

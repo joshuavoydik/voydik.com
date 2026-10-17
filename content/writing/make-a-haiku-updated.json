@@ -1,0 +1,22 @@
+{
+  "slug": "make-a-haiku-updated",
+  "title": "Make a Haiku (updated)",
+  "subtitle": "Write a haiku about whatever inspires you",
+  "description": "Write a haiku about whatever inspires you",
+  "date": "2023-08-25T03:02:28.633Z",
+  "readingMinutes": 1,
+  "sourceUrl": "https://joshua.substack.com/p/make-a-haiku-updated",
+  "html": "<div class=\"captioned-image-container\"><figure><a href=\"/writing/628b1d65e89476ed252629eb.png\" rel=\"noopener noreferrer\"><div><img src=\"/writing/b5c21f670f16a57b54af1d1b.webp\" width=\"1600\" height=\"1154\" alt=\"\" loading=\"lazy\" decoding=\"async\" /></div></a></figure></div><p>*<em>Apologies folks - the previous link didn’t work! </em></p><p>Today I made an app called <strong><a href=\"https://www.makeahaiku.com/\" rel=\"noopener noreferrer\">Make a Haiku</a></strong>.</p><p>Haikus are beautiful, short, and powerful. Originally from Japan, these mini poems follow a 5-7-5 syllable pattern.</p><p>It uses AI to generate a haiku based on your prompt.</p><p>Try it out and let me know what you think.</p>",
+  "source": {
+    "platform": "Substack",
+    "publicationId": 22143,
+    "postId": 136390118,
+    "apiUrl": "https://joshua.substack.com/api/v1/posts/make-a-haiku-updated",
+    "originalTitle": "Make a Haiku (updated)",
+    "originalSubtitle": "Write a haiku about whatever inspires you",
+    "publishedAt": "2023-08-25T03:02:28.633Z",
+    "updatedAt": "2025-06-19T23:55:53.543Z",
+    "sourceHtmlSha256": "6b63272c3377c286bbd9ef934c6a5c7d077bc23db067e03af52626ec69b74051",
+    "importedTextSha256": "482442e961ea193cdd7868b700f710380579c026e02d694863f7caab6875cd49"
+  }
+}

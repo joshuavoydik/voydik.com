@@ -1,0 +1,22 @@
+{
+  "slug": "david-sacks-on-the-middle-management",
+  "title": "David Sacks on the \"middle management\" problem in startups",
+  "subtitle": "An excerpt from the \"All-In Podcast\"",
+  "description": "An excerpt from the \"All-In Podcast\"",
+  "date": "2023-02-09T21:56:00.189Z",
+  "readingMinutes": 1,
+  "sourceUrl": "https://joshua.substack.com/p/david-sacks-on-the-middle-management",
+  "html": "<p>In their most recent episode of the All-In Podcast, David Sacks explains a lot of what has gone wrong at startups over the last decade:</p><blockquote><p>Let me tell you the problem that builds up in these companies: it’s that everybody wants to become a manager. </p><p>You can’t just come at this problem and say we’re going to increase the number of reports that each manager has from five to ten. </p><p>That doesn’t work because let me tell you what happens: every individual contributor who’s a star thinks that their career advancement requires them to manage a team.</p><p>So what happens is that you take that star IC and create a team around them. </p><p>That person then hires five people to manage, and they stop working and start managing. </p><p>Maybe you get 20% more production out of that six person unit than you would have just out of that star, but you’re spending five times more money. </p><p>It makes no sense, and the problem is that it cascades…</p><p>So, that IC becomes a manager, they hire five people. Then of those five people, one of them says, “well, I want to be a manager” and all the organizational pressure is to build more and more teams, and more and more layers…</p></blockquote><p>Sound familiar? </p><p></p>",
+  "source": {
+    "platform": "Substack",
+    "publicationId": 22143,
+    "postId": 101940012,
+    "apiUrl": "https://joshua.substack.com/api/v1/posts/david-sacks-on-the-middle-management",
+    "originalTitle": "David Sacks on the \"middle management\" problem in startups",
+    "originalSubtitle": "An excerpt from the \"All-In Podcast\" ",
+    "publishedAt": "2023-02-09T21:56:00.189Z",
+    "updatedAt": "2025-06-19T23:55:53.543Z",
+    "sourceHtmlSha256": "732cf0fa1270b1575f65b9b5b5ceaafe8ca05b2ceb15cfb4ee9acc4c00f4aaad",
+    "importedTextSha256": "1d9287832f9c6b07d4a5aa4cb6cf41a147a152d2eb067848fcc820feb526b035"
+  }
+}

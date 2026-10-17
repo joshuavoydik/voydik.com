@@ -1,0 +1,22 @@
+{
+  "slug": "follow-my-spotify-playlist-for-good",
+  "title": "Follow my Spotify playlist for good tunes",
+  "subtitle": "Eclectic playlist full of cool songs that I like",
+  "description": "Eclectic playlist full of cool songs that I like",
+  "date": "2023-01-27T02:51:45.663Z",
+  "readingMinutes": 1,
+  "sourceUrl": "https://joshua.substack.com/p/follow-my-spotify-playlist-for-good",
+  "html": "<p>You probably already know that I like music, like, a lot.</p><p>Follow my curated Spotify playlist below. It’s only the good stuff. </p><iframe src=\"https://open.spotify.com/embed/playlist/0MjDeVNx6L3Q6SMiAnwmKt\" allowfullscreen=\"true\" title=\"Spotify in Follow my Spotify playlist for good tunes\" loading=\"lazy\"></iframe>",
+  "source": {
+    "platform": "Substack",
+    "publicationId": 22143,
+    "postId": 99217008,
+    "apiUrl": "https://joshua.substack.com/api/v1/posts/follow-my-spotify-playlist-for-good",
+    "originalTitle": "Follow my Spotify playlist for good tunes",
+    "originalSubtitle": "Eclectic playlist full of cool songs that I like",
+    "publishedAt": "2023-01-27T02:51:45.663Z",
+    "updatedAt": "2025-06-19T23:55:53.543Z",
+    "sourceHtmlSha256": "c0dafa5a9dae8edef2ff662353ed7572e12bd367a30c0fb277023dcac4fef0f6",
+    "importedTextSha256": "aaa340cd2f92392db467b0eefa83c2858e82523af40cc051c77a5ab96e14515b"
+  }
+}

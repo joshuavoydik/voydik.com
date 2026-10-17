@@ -1,0 +1,22 @@
+{
+  "slug": "cooperation-and-game-theory",
+  "title": "Cooperation and game theory",
+  "subtitle": "",
+  "description": "Game Theory is the science of strategic thinking. It's a mathematical theory found in economics that is applied to a variety of situations in nearly every field. It’s sort of like ",
+  "date": "2022-11-03T20:29:08.762Z",
+  "readingMinutes": 2,
+  "sourceUrl": "https://joshua.substack.com/p/cooperation-and-game-theory",
+  "html": "<p><strong><a href=\"https://en.wikipedia.org/wiki/Game_theory\" rel=\"noopener noreferrer\">Game Theory</a></strong> is the science of strategic thinking. It's a mathematical theory found in economics that is applied to a variety of situations in nearly every field. </p><p>It’s sort of like a miniature version of chess. It's a way to understand who to marry, who to do business with, the nuclear threat from Russia on Ukraine, where to eat with your friends, and so on. </p><p>This model is obviously simplistic and it doesn't always tell the full story as there are countless nuances but it's certainly a useful tool for thinking through possible outcomes when dealing with others. Ultimately each party is trying to achieve different things because they have private incentives. </p><p>It's useful to break up problems into a bunch of tiny ones, and seek to create small interactions that allow each side to cooperate with one another. It's a lot of back and forth where concessions are made on both sides. </p><p>A drastic example of this is when the Soviets and US agreed to removing a swath of their nuclear weapons. Each side would remove a little at a time—they would run checks and then go to the next stage. </p><p>This is a smart strategy because one can run Game Theory on the Cold War and there are certainly outcomes that create total loss of human life which would be undesirable for both sides. </p><p>So in your games, work to get cooperation (while being cooperative) and you will see beneficial outcomes. </p>",
+  "source": {
+    "platform": "Substack",
+    "publicationId": 22143,
+    "postId": 82393110,
+    "apiUrl": "https://joshua.substack.com/api/v1/posts/cooperation-and-game-theory",
+    "originalTitle": "Cooperation and game theory",
+    "originalSubtitle": "",
+    "publishedAt": "2022-11-03T20:29:08.762Z",
+    "updatedAt": "2025-06-19T23:55:53.543Z",
+    "sourceHtmlSha256": "dc9e6c2ff38e52ce31d8c3acc8590f9b3e26bf6cb128849e59dca43fd7f155fd",
+    "importedTextSha256": "33609e4e64e4fa6718825e2815f1c8dbbe6e35d2cdf08c5635150215f989c3b7"
+  }
+}
