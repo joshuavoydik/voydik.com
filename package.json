@@ -2,14 +2,16 @@
   "private": true,
   "license": "MIT",
   "engines": {
-    "node": ">=20.9.0"
+    "node": ">=22.12.0"
   },
   "scripts": {
     "dev": "next",
     "build": "node ./scripts/gen-rss.js && next build",
+    "import:writing": "node ./scripts/import-substack.js",
     "start": "next start"
   },
   "dependencies": {
+    "cheerio": "^1.2.0",
     "marked": "18.1.1",
     "marked-footnote": "1.4.0",
     "marked-gfm-heading-id": "4.1.4",
@@ -17,6 +19,8 @@
     "react": "19.3.1",
     "react-dom": "19.3.1",
     "rss": "1.2.2",
+    "sanitize-html": "^2.18.1",
+    "sharp": "0.35.5",
     "yaml": "2.9.1"
   },
   "prettier": {

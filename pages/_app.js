@@ -22,6 +22,7 @@ export default function App({ Component, pageProps }) {
         <link rel="canonical" href={canonical} key="canonical" />
         <meta property="og:site_name" content="Joshua Voydik" />
         <meta property="og:type" content={pageProps.post ? 'article' : 'website'} />
+        {pageProps.post?.date && <meta property="article:published_time" content={pageProps.post.date} />}
         <meta property="og:title" content={title} key="og:title" />
         <meta property="og:description" content={description} key="og:description" />
         <meta property="og:url" content={canonical} key="og:url" />

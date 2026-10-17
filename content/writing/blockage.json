@@ -1,0 +1,22 @@
+{
+  "slug": "blockage",
+  "title": "Blockage",
+  "subtitle": "How to deal with it",
+  "description": "How to deal with it",
+  "date": "2023-06-21T17:18:44.626Z",
+  "readingMinutes": 1,
+  "sourceUrl": "https://joshua.substack.com/p/blockage",
+  "html": "<p>I often get blocked when working on projects. </p><p>The data isn't there. Fuzzy about the details. Waiting to hear back. </p><p>There are two paths for dealing with blockage:</p><ul><li><p>Brute force </p></li><li><p>Stepping away </p></li></ul><p>Oftentimes, the best path to solving a problem is through brute force and sheer will.</p><p>Example: You haven't heard back from a user about a feature you're building. You can't wait. So you reach out to another user for feedback. </p><p>Example: You get a ‘no’ from 50 investors, but you keep going in order to raise capital. </p><p>Example: You've validated an idea and just need to ship.</p><p>Although, in many cases, brute force makes it more difficult to solve a problem. You get in your own way. Forcing it makes them elusive. </p><p>Sometimes stepping away can help to clear your mind.  </p><p>Example: You’re stuck on a strategy for your business.</p><p>Example: You feel overwhelmed with the information.</p><p>Example: You can’t seem to come up with the next chapter for your book. </p><p>When you're blocked, first identify if brute force will help or hurt the problem. </p><p>If it’ll hurt, try stepping away for hours, days, or even weeks before revisiting. </p><p>You can then look anew with fresh eyes. You may feel differently about the problem than you once did. </p>",
+  "source": {
+    "platform": "Substack",
+    "publicationId": 22143,
+    "postId": 130010357,
+    "apiUrl": "https://joshua.substack.com/api/v1/posts/blockage",
+    "originalTitle": "Blockage ",
+    "originalSubtitle": "How to deal with it",
+    "publishedAt": "2023-06-21T17:18:44.626Z",
+    "updatedAt": "2025-06-19T23:55:53.543Z",
+    "sourceHtmlSha256": "061b2e138e4ece8ffca26bfe8ac962f0618e3e60b67da107a48d13f49cc4b0a3",
+    "importedTextSha256": "05d0a4639c6955ec6283669f678585044d960e199e2434a51d06fb0116d8e0ba"
+  }
+}

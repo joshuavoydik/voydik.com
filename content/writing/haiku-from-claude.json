@@ -1,0 +1,22 @@
+{
+  "slug": "haiku-from-claude",
+  "title": "Haiku from Claude",
+  "subtitle": "",
+  "description": "Model: Claude 2 from Anthropic Prompt: “Write a beautiful and conflicted haiku about life in the 2020s.” Output: Bright screens fill our eyes Yet longing for human touch Disconnect",
+  "date": "2023-07-25T04:38:11.196Z",
+  "readingMinutes": 1,
+  "sourceUrl": "https://joshua.substack.com/p/haiku-from-claude",
+  "html": "<p><strong>Model</strong>: Claude 2 from <a href=\"https://www.anthropic.com/\" rel=\"noopener noreferrer\">Anthropic</a></p><p><strong>Prompt</strong>: “Write a beautiful and conflicted haiku about life in the 2020s.”</p><p><strong>Output: </strong></p><div><p><em><strong>Bright screens fill our eyes </strong></em></p><p><em><strong>Yet longing for human touch </strong></em></p><p><em><strong>Disconnected souls</strong></em></p></div><p><strong>Prompt: </strong>I then fed that haiku into <a href=\"http://midjourney.com\" rel=\"noopener noreferrer\">Midjourney</a> as a prompt: <strong>“</strong>Bright screens fill our eyes. Yet longing for human touch. Disconnected souls.”</p><p><strong>Output: </strong></p><div class=\"captioned-image-container\"><figure><a href=\"/writing/c971020ca23492c8187be415.png\" rel=\"noopener noreferrer\"><div><img src=\"/writing/19b11b2ac222933ec24f1651.webp\" width=\"1024\" height=\"1024\" alt=\"\" loading=\"lazy\" decoding=\"async\" /></div></a></figure></div>",
+  "source": {
+    "platform": "Substack",
+    "publicationId": 22143,
+    "postId": 135422797,
+    "apiUrl": "https://joshua.substack.com/api/v1/posts/haiku-from-claude",
+    "originalTitle": "Haiku from Claude",
+    "originalSubtitle": "",
+    "publishedAt": "2023-07-25T04:38:11.196Z",
+    "updatedAt": "2025-06-19T23:55:53.543Z",
+    "sourceHtmlSha256": "622c478d024c0291e180d25dc6db8bfa78eb7d4d04ac925d2221697fcd66aa14",
+    "importedTextSha256": "4bd11556a9d9a55f58cd41e6d06969f9af33a254785c3f8fe6d449a16a753dbb"
+  }
+}
