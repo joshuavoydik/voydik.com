@@ -1,8 +1,14 @@
-html {
-  font-size: 20px !important;
-}
-
-
-  
-  
-  
+.legacy-page { width: min(100% - 48px, 680px); margin: 0 auto; padding: 64px 0; }
+.legacy-page > nav { margin-bottom: 40px; font-size: 13px; color: var(--secondary); }
+.legacy-page h1 { font-size: 32px; line-height: 1.25; letter-spacing: -1px; margin-bottom: 16px; }
+.legacy-page h2 { font-size: 24px; color: var(--text); margin: 32px 0 16px; }
+.legacy-page h3 { margin: 28px 0 12px; }
+.legacy-page a { text-decoration: underline; text-underline-offset: 3px; }
+.legacy-page time { font-size: 13px; color: var(--secondary); }
+.legacy-content { margin-top: 32px; overflow-wrap: anywhere; }
+.legacy-content p, .legacy-content ul, .legacy-content ol { margin-bottom: 20px; }
+.legacy-content img { max-width: 100%; height: auto; }
+.legacy-content pre { overflow-x: auto; padding: 20px; background: var(--hover); border-radius: 8px; }
+.legacy-content blockquote { margin: 24px 0; padding-left: 20px; border-left: 2px solid var(--line); color: var(--secondary); }
+.legacy-content table { display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; }
+.legacy-content th, .legacy-content td { padding: 8px 12px; border: 1px solid var(--line); }
