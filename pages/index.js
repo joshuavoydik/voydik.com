@@ -36,7 +36,7 @@ export default function Home({ writing }) {
             </div>
           </section>
           <section className="writing-section" aria-labelledby="writing-title">
-            <div className="section-heading"><h2 id="writing-title">Recent writing</h2><a className="quiet-link" href="/feed.xml">RSS <Arrow diagonal /></a></div>
+            <h2 id="writing-title">Recent writing</h2>
             <p className="section-description">Notes on technology, travel, and figuring things out.</p>
             <ul className="writing-list">
               {writing.map(post => (

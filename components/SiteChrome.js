@@ -51,7 +51,6 @@ export function SiteFooter() {
       <nav aria-label="Find me elsewhere">
         <a href="https://www.linkedin.com/in/joshuavoydik/">LinkedIn</a>
         <a href="https://x.com/joshuavoydik">X</a>
-        <a href="https://github.com/joshuavoydik">GitHub</a>
       </nav>
     </footer>
   )

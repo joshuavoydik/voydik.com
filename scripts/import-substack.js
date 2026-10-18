@@ -14,6 +14,7 @@ const { promisify } = require('util')
 const cheerio = require('cheerio')
 const sanitizeHtml = require('sanitize-html')
 const sharp = require('sharp')
+const excludedSlugs = new Set(require('../data/writing-exclusions.json'))
 
 const execFileAsync = promisify(execFile)
 const ROOT = path.join(__dirname, '..')
@@ -172,8 +173,10 @@ async function main() {
   }
   if (!archive.length || new Set(archive.map((post) => post.slug)).size !== archive.length) throw new Error('Empty or duplicate public archive')
   if (archive.some((post) => !/^[a-z0-9]+(?:-[a-z0-9]*)*$/.test(post.slug))) throw new Error('Invalid public post slug')
-  const allSlugs = new Set(archive.map((post) => post.slug))
-  const posts = await mapLimit(archive, 3, async (meta) => {
+  const includedArchive = archive.filter((post) => !excludedSlugs.has(post.slug))
+  const excludedArchive = archive.filter((post) => excludedSlugs.has(post.slug))
+  const allSlugs = new Set(includedArchive.map((post) => post.slug))
+  const posts = await mapLimit(includedArchive, 3, async (meta) => {
     const sourcePath = path.join(sourceDirectory, 'posts', `${meta.slug}.json`)
     let post
     try { post = JSON.parse(await fs.readFile(sourcePath, 'utf8')) } catch {
@@ -310,10 +313,13 @@ async function main() {
   }
   // Publish the new content only after the whole import passes parity checks.
   for (const [file, contents] of pending) await fs.writeFile(file, contents)
+  // Remove earlier imported copies so excluded essays cannot return on refresh.
+  for (const slug of excludedSlugs) await fs.rm(path.join(CONTENT, `${slug}.json`), { force: true })
   const report = {
     source: `${ORIGIN}/archive`, importedAt: new Date().toISOString(),
     publishedPosts: archive.length, importedPosts: pending.length,
-    dateRange: { first: archive.at(-1).post_date, last: archive[0].post_date },
+    excludedPosts: excludedArchive.length, excludedSlugs: excludedArchive.map((post) => post.slug),
+    dateRange: { first: includedArchive.at(-1)?.post_date || null, last: includedArchive[0]?.post_date || null },
     restrictedPosts: 0, missingAssets: [], textParityFailures: [],
     uniqueImages: assets.length, imageReferences: reportPosts.reduce((sum, post) => sum + post.images, 0),
     assets, posts: reportPosts

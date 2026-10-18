@@ -17,12 +17,14 @@ regenerates the RSS feed and sitemap.
 ## Writing
 
 - `/` shows the eight most recent posts.
-- `/writing` contains the full archive, grouped by year, with title/year search.
+- `/writing` contains the published archive, grouped by year.
 - `/writing/[slug]` renders an essay locally, with its original text, date, media,
   captions, and an email signup at the end.
 - Imported public posts live in `content/writing/`. Their images are checked into
   `public/writing/`; supported video/audio embeds remain with their original host.
 - `data/writing-import.json` records source provenance and import validation.
+- `data/writing-exclusions.json` lists posts removed from the site. Both page
+  generation and future imports respect this list.
 
 To refresh the public Substack archive:
 
