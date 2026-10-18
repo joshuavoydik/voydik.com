@@ -49,10 +49,6 @@ h2 { font-size: 13px; font-weight: 500; color: var(--muted); letter-spacing: .01
 .project-arrow { align-self: center; color: var(--muted); transition: transform .16s, color .16s; }
 .project:hover .project-arrow { transform: translate(2px, -2px); color: var(--text); }
 .writing-section { margin-top: 48px; }
-.section-heading { display: flex; align-items: center; justify-content: space-between; gap: 20px; }
-.quiet-link { display: flex; align-items: center; gap: 5px; font-size: 11px; color: var(--muted); }
-.quiet-link svg { width: 12px; height: 12px; }
-.quiet-link:hover { color: var(--text); }
 .section-description { font-size: 13px; color: var(--secondary); margin-top: 10px; }
 .writing-list { list-style: none; padding: 0; margin: 19px 0 0; }
 .writing-link { display: flex; align-items: baseline; justify-content: space-between; gap: 22px; padding: 10px 0; }
@@ -70,7 +66,6 @@ h2 { font-size: 13px; font-weight: 500; color: var(--muted); letter-spacing: .01
 .site-footer a:hover { color: var(--text); }
 .visually-hidden { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
 .newsletter { margin-top: 56px; padding-top: 36px; border-top: 1px solid var(--line); }
-.newsletter-eyebrow { display: block; margin-bottom: 10px; font-size: 11px; color: var(--muted); }
 .newsletter h2 { color: var(--text); font-size: 23px; line-height: 1.35; font-weight: 550; letter-spacing: -.65px; }
 .newsletter > p { margin-top: 12px; color: var(--secondary); font-size: 13px; line-height: 1.8; }
 .newsletter-form { display: flex; gap: 8px; margin-top: 22px; max-width: 470px; }
@@ -85,20 +80,13 @@ h2 { font-size: 13px; font-weight: 500; color: var(--muted); letter-spacing: .01
 .archive-site, .essay-site { width: min(100% - 48px, 680px); }
 .archive-intro h1 { font-size: 36px; line-height: 1.25; font-weight: 600; letter-spacing: -1.3px; }
 .archive-intro p { color: var(--secondary); margin-top: 13px; font-size: 15px; }
-.archive-tools { display: flex; align-items: center; justify-content: space-between; gap: 20px; margin-top: 34px; padding-bottom: 22px; border-bottom: 1px solid var(--line); }
-.writing-search { display: flex; align-items: center; gap: 9px; color: var(--muted); width: 100%; max-width: 340px; }
-.writing-search svg { flex-shrink: 0; }
-.writing-search input { width: 100%; padding: 5px 0; border: 0; background: transparent; color: var(--text); font-size: 13px; border-radius: 0; }
-.writing-search input::placeholder { color: var(--muted); opacity: 1; }
-.archive-tools > .quiet-link { flex-shrink: 0; }
-.search-summary { margin-top: 20px; font-size: 12px; color: var(--muted); }
+.archive-count { margin-top: 34px; padding-top: 20px; border-top: 1px solid var(--line); font-size: 12px; color: var(--muted); }
 .archive-year { display: grid; grid-template-columns: 62px minmax(0, 1fr); gap: 22px; padding-top: 33px; }
 .archive-year + .archive-year { margin-top: 18px; border-top: 1px solid var(--line); }
 .archive-year > h2 { padding-top: 11px; font-size: 12px; font-variant-numeric: tabular-nums; }
 .archive-year .writing-list { margin: 0; }
 .archive-year .writing-link { padding: 9px 0; }
 .archive-year .writing-link time { min-width: 42px; text-align: right; }
-.empty-search { color: var(--secondary); font-size: 14px; padding: 36px 0 8px; }
 .essay-header { margin-bottom: 42px; }
 .essay-details { display: flex; align-items: baseline; flex-wrap: wrap; gap: 10px; margin-bottom: 18px; color: var(--muted); font-size: 12px; }
 .essay-header h1 { font-size: clamp(32px, 5vw, 46px); line-height: 1.15; letter-spacing: -.04em; font-weight: 600; text-wrap: balance; overflow-wrap: break-word; }

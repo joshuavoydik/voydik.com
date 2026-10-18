@@ -2,7 +2,12 @@
   "source": "https://joshua.substack.com/archive",
   "importedAt": "2026-10-17T19:57:35.350Z",
   "publishedPosts": 107,
-  "importedPosts": 107,
+  "importedPosts": 105,
+  "excludedPosts": 2,
+  "excludedSlugs": [
+    "bill-ackman-on-dei",
+    "how-to-win-the-fight-for-america"
+  ],
   "dateRange": {
     "first": "2022-06-29T16:53:17.138Z",
     "last": "2026-08-26T02:55:17.516Z"
@@ -1534,18 +1539,6 @@
       ]
     },
     {
-      "slug": "bill-ackman-on-dei",
-      "sourceUrl": "https://joshua.substack.com/p/bill-ackman-on-dei",
-      "date": "2024-01-04T19:36:28.070Z",
-      "sourceWordCount": 4126,
-      "preservedWords": 4098,
-      "images": 0,
-      "captions": 0,
-      "embeds": 0,
-      "textParity": true,
-      "removedPlatformText": []
-    },
-    {
       "slug": "think-less",
       "sourceUrl": "https://joshua.substack.com/p/think-less",
       "date": "2023-12-31T18:49:58.880Z",
@@ -1578,20 +1571,6 @@
       "images": 0,
       "captions": 0,
       "embeds": 0,
-      "textParity": true,
-      "removedPlatformText": [
-        "Subscribe now"
-      ]
-    },
-    {
-      "slug": "how-to-win-the-fight-for-america",
-      "sourceUrl": "https://joshua.substack.com/p/how-to-win-the-fight-for-america",
-      "date": "2023-11-22T17:52:44.333Z",
-      "sourceWordCount": 1987,
-      "preservedWords": 1971,
-      "images": 0,
-      "captions": 0,
-      "embeds": 1,
       "textParity": true,
       "removedPlatformText": [
         "Subscribe now"

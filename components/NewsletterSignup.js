@@ -7,7 +7,6 @@ export default function NewsletterSignup() {
 
   return (
     <section id="subscribe" className="newsletter" aria-labelledby={`${id}-title`}>
-      <span className="newsletter-eyebrow">Letters</span>
       <h2 id={`${id}-title`}>Get new writing by email.</h2>
       <p>Notes on travel, technology, and life.<br className="desktop-break" /> Sent when I have something to share.</p>
       <form className="newsletter-form" action={endpoint} method="post" target="_blank" rel="noopener noreferrer">
