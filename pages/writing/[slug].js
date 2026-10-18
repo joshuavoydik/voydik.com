@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Link from 'next/link'
 import { Arrow, SiteHeader, SiteFooter } from '../../components/SiteChrome'
 import NewsletterSignup from '../../components/NewsletterSignup'
-import { getAllWriting, getWritingPost } from '../../lib/writing'
+import { getAllWriting, getWritingPost, REVALIDATE_SECONDS } from '../../lib/writing'
 
 export default function Essay({ post }) {
   return (
@@ -36,14 +36,15 @@ export default function Essay({ post }) {
 
 export async function getStaticPaths() {
   const writing = await getAllWriting()
-  return { paths: writing.map(post => ({ params: { slug: post.slug } })), fallback: false }
+  return { paths: writing.map(post => ({ params: { slug: post.slug } })), fallback: 'blocking' }
 }
 
 export async function getStaticProps({ params }) {
   const post = await getWritingPost(params.slug)
-  if (!post) return { notFound: true }
+  if (!post) return { notFound: true, revalidate: REVALIDATE_SECONDS }
 
   return {
+    revalidate: REVALIDATE_SECONDS,
     props: {
       post,
       meta: {
