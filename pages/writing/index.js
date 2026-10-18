@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import { SiteHeader, SiteFooter } from '../../components/SiteChrome'
 import NewsletterSignup from '../../components/NewsletterSignup'
-import { getAllWriting } from '../../lib/writing'
+import { getAllWriting, REVALIDATE_SECONDS } from '../../lib/writing'
 
 export default function Writing({ writing }) {
   const years = [...new Set(writing.map(post => post.year))]
@@ -44,6 +44,7 @@ export default function Writing({ writing }) {
 
 export async function getStaticProps() {
   return {
+    revalidate: REVALIDATE_SECONDS,
     props: {
       writing: await getAllWriting(),
       meta: {

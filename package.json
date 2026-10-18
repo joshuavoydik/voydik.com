@@ -6,9 +6,10 @@
   },
   "scripts": {
     "dev": "next",
-    "build": "node ./scripts/gen-rss.js && next build",
+    "build": "next build",
     "import:writing": "node ./scripts/import-substack.js",
-    "start": "next start"
+    "start": "next start",
+    "test": "node --test lib/buttondown.test.js tests/*.test.js"
   },
   "dependencies": {
     "cheerio": "^1.2.0",

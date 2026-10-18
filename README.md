@@ -11,8 +11,8 @@ npm ci
 npm run dev
 ```
 
-For a production build, run `npm run build`, then `npm start`. The build also
-regenerates the RSS feed and sitemap.
+For a production build, run `npm run build`, then `npm start`. Run focused
+integration tests with `npm test`.
 
 ## Writing
 
@@ -41,6 +41,25 @@ Review the content and asset report before committing an import.
 The original site's Markdown posts remain in `content/posts/`, with their
 existing `/posts/` and `/tags/` URLs. Starter examples are excluded from the new
 writing archive and RSS feed.
+
+## Publishing from Buttondown
+
+Write in Buttondown and publish with the web archive set to **Public**. The site
+reads the public newsletter feed and combines new posts with the migrated archive.
+New posts appear in Recent writing, `/writing`, individual essay pages, the feed,
+and sitemap without another deploy. Pages refresh on visits after a 60-second
+cache interval; the first visit may show the previous version while it refreshes.
+
+Drafts and private/archive-disabled content are not fetched. Updates and removals
+from the public feed appear after the same refresh interval. The feed requests up
+to 10,000 posts rather than Buttondown's default 30. The existing exclusion list
+still applies. Imported Substack posts keep their local files; new Buttondown
+articles are rendered on this site from its public feed, and their media remains
+hosted by Buttondown. This sync is a live mirror, not an independent backup.
+
+No API key, webhook, subscriber access, or email-sending permission is needed.
+Failed feed requests throw during regeneration so existing cached pages survive
+an upstream outage. RSS and sitemap are server-rendered and cached separately.
 
 ## Newsletter
 

@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import { Arrow, SiteHeader, SiteFooter } from '../components/SiteChrome'
 import NewsletterSignup from '../components/NewsletterSignup'
-import { getAllWriting } from '../lib/writing'
+import { getAllWriting, REVALIDATE_SECONDS } from '../lib/writing'
 
 const projects = [
   { name: 'Hero', description: 'AI tools for selling your stuff.', role: 'Co-founder & CEO', status: 'Now', url: 'https://www.herostuff.com/', image: '/images/hero.png' },
@@ -58,5 +58,5 @@ export default function Home({ writing }) {
 
 export async function getStaticProps() {
   const writing = await getAllWriting()
-  return { props: { writing: writing.slice(0, 8) } }
+  return { props: { writing: writing.slice(0, 8) }, revalidate: REVALIDATE_SECONDS }
 }
