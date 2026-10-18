@@ -5,6 +5,8 @@ import '../styles/main.css'
 import '../styles/global.css'
 
 const SITE_URL = 'https://voydik.com'
+const SHARE_IMAGE = `${SITE_URL}/images/voydik-share-v1.png`
+const SHARE_IMAGE_ALT = 'voydik.com on a soft, muted color gradient'
 const DESCRIPTION = 'Founder of Hero and Swell. Writing about technology, travel, and life.'
 
 export default function App({ Component, pageProps }) {
@@ -26,11 +28,16 @@ export default function App({ Component, pageProps }) {
         <meta property="og:title" content={title} key="og:title" />
         <meta property="og:description" content={description} key="og:description" />
         <meta property="og:url" content={canonical} key="og:url" />
-        <meta property="og:image" content={`${SITE_URL}/images/joshua.jpg`} />
+        <meta property="og:image" content={SHARE_IMAGE} key="og:image" />
+        <meta property="og:image:type" content="image/png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:image:alt" content={SHARE_IMAGE_ALT} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={title} key="twitter:title" />
         <meta name="twitter:description" content={description} key="twitter:description" />
-        <meta name="twitter:image" content={`${SITE_URL}/images/joshua.jpg`} />
+        <meta name="twitter:image" content={SHARE_IMAGE} key="twitter:image" />
+        <meta name="twitter:image:alt" content={SHARE_IMAGE_ALT} />
         <link
           rel="alternate"
           type="application/rss+xml"
