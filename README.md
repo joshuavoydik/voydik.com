@@ -42,20 +42,27 @@ The original site's Markdown posts remain in `content/posts/`, with their
 existing `/posts/` and `/tags/` URLs. Starter examples are excluded from the new
 writing archive and RSS feed.
 
-## Publishing from Buttondown
+## Publishing from Substack
 
-Write in Buttondown and publish with the web archive set to **Public**. The site
-reads the public newsletter feed and combines new posts with the migrated archive.
-New posts appear in Recent writing, `/writing`, individual essay pages, the feed,
+Write and publish in the existing `https://joshua.substack.com` publication.
+Substack sends the newsletter and manages free and paid subscriptions. The site
+reads `https://joshua.substack.com/feed` and combines its public content with the
+saved writing archive. Matching posts refresh at their existing URLs without
+creating duplicates. New posts appear in Recent writing, `/writing`, essay pages, the feed,
 and sitemap without another deploy. Pages refresh on visits after a 60-second
 cache interval; the first visit may show the previous version while it refreshes.
 
-Drafts and private/archive-disabled content are not fetched. Updates and removals
-from the public feed appear after the same refresh interval. The feed requests up
-to 10,000 posts rather than Buttondown's default 30. The existing exclusion list
-still applies. Imported Substack posts keep their local files; new Buttondown
-articles are rendered on this site from its public feed, and their media remains
-hosted by Buttondown. This sync is a live mirror, not an independent backup.
+Only unauthenticated public feed content is fetched. Paid posts may expose a
+preview; every Substack essay has a link to read it on Substack, where access and
+payment are handled. The site does not implement a separate paid membership.
+The existing exclusion list still applies.
+
+The observed Substack RSS feed contains the latest 20 posts, not the complete
+archive. Saved local essays remain available when they are no longer in the feed.
+Run `npm run import:writing` and review/deploy the result periodically to save
+new public essays before they fall out of the feed. That importer rejects
+restricted content; do not use it to copy paid-only posts. Live feed content and
+media are a mirror, not an independent backup.
 
 No API key, webhook, subscriber access, or email-sending permission is needed.
 Failed feed requests throw during regeneration so existing cached pages survive
@@ -63,18 +70,16 @@ an upstream outage. RSS and sitemap are server-rendered and cached separately.
 
 ## Newsletter
 
-The shared signup in `components/NewsletterSignup.js` uses Joshua's personal
-Buttondown account (`joshuavoydik`). It submits a native HTML POST to the public
-form endpoint verified in Buttondown's embedding settings:
-`https://buttondown.com/api/emails/embed-subscribe/joshuavoydik`.
+The shared signup in `components/NewsletterSignup.js` links directly to
+`https://joshua.substack.com/subscribe`. Substack handles the email signup,
+confirmation, and any paid subscription options in the same publication.
 
-Buttondown handles validation and double opt-in confirmation. The form requires
-no client-side API key or third-party script. The optional
-`NEXT_PUBLIC_NEWSLETTER_URL` environment variable overrides the public form URL;
-never put a secret in a `NEXT_PUBLIC_` variable.
+The site does not submit email addresses to an unofficial API and needs no
+subscriber credentials or third-party signup script.
 
-Manage subscriber imports and delivery verification privately in Buttondown.
-When changing the form, test through inbox confirmation and verify the resulting
+Manage subscriber imports and delivery verification privately in Substack.
+When changing newsletter providers, reconcile subscribers and suppression states
+before sending, and verify the resulting
 subscriber status in the provider's dashboard.
 
 Subscriber exports, suppression lists, and credentials must stay outside this

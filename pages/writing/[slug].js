@@ -24,6 +24,11 @@ export default function Essay({ post }) {
               {post.subtitle && <p className="essay-subtitle">{post.subtitle}</p>}
             </header>
             <div className="essay-body" dangerouslySetInnerHTML={{ __html: post.html }} />
+            {post.sourceUrl?.startsWith('https://joshua.substack.com/p/') && (
+              <p className="essay-source">
+                <a className="archive-link" href={post.sourceUrl}>Read on Substack <Arrow /></a>
+              </p>
+            )}
           </article>
           <div className="essay-end"><span aria-hidden="true">✳</span><Link className="archive-link" href="/writing">More writing <Arrow /></Link></div>
           <NewsletterSignup />
